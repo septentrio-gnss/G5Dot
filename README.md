@@ -8,9 +8,9 @@ It is based on the mosaic G5 GNSS receiver with multiple satellite systems able 
 ## Table of Content
 
 ## What is a mosaic G5?
-This is a Septentrio’s now newest multi-band multi-constellation low power GNSS receivers that provide high position and highly protects again jamming and spoofing.
+This is a Septentrio’s now newest multi-band multi-constellation low power GNSS receivers that provides high position and highly protects against jamming and spoofing.
 #### Other mosaic versions
- 
+ You can used other [Mosaic modules](https://www.septentrio.com/en/products/gnss-receivers?f%5B0%5D=type%3A604) such as Mosaic G5-p1, Mosaic G5-P3,Mosaic G5-P3H, but you need to pay attention and take into consideration the functions and pins that could be exposed, then modify the design for the purpose of your own project.
 
 ## Who is Septemtrio?
 ![logo](/pictures/Septentrio_logo.png)
@@ -22,6 +22,44 @@ Steptentrio's technology offers high accuracy and reliability thanks to GNSS + a
 For more information about Septentrio products go to https://www.septentrio.com/
 
 ## User documentation
+
+### Hardware files
+* Altium Project files
+* schematics PBF 
+* BOM (Bill Of Materials)
+
+#### Pinout for M.2 Key_A+E Connector 
+
+| Pin # |Signal            |
+|-------|------------------|
+| 3	USB |D+                |
+| 5	USB |D-                |
+| 2, 4	|VBAT              |
+| 2 	|LED#1             |
+| 16	|LED#2             |
+| 2,4,72,74	|power 3.3V    |
+| GND	|GND               |
+
+
+#### Pinout for MosaicG5 
+
+| Pin #	|Signal     |
+|-------|-----------|
+| 2	    |ANT 1      |
+| 5	    |ANT 2      |
+| 42    |PPS1 OUT    |
+| 12	|USB D+        |
+| 13	|USB D-        |
+| 14	|USB VBUS      |
+| 51	|VREF_O        |
+| 50	|VREF_I        |
+| 48	|REF_I         |
+| 47	|REF_O         |
+| 52	|GPIO1         |
+| 53	|GPIO2         |
+
+
+
 
 Interface
 -	USB (device 2.0 HS up to 480Mbps)
