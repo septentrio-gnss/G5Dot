@@ -1,0 +1,2646 @@
+﻿[Design]
+Version=1.0
+HierarchyMode=0
+ChannelRoomNamingStyle=0
+ReleasesFolder=
+ChannelDesignatorFormatString=$Component_$RoomName
+ChannelRoomLevelSeperator=_
+OpenOutputs=1
+ArchiveProject=0
+TimestampOutput=0
+SeparateFolders=0
+TemplateLocationPath=
+PinSwapBy_Netlabel=1
+PinSwapBy_Pin=1
+AllowPortNetNames=0
+AllowSheetEntryNetNames=1
+AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
+DefaultConfiguration=Sources
+UserID=0xFFFFFFFF
+DefaultPcbProtel=1
+DefaultPcbPcad=0
+ReorderDocumentsOnCompile=1
+NameNetsHierarchically=0
+PowerPortNamesTakePriority=0
+AutoSheetNumbering=1
+AutoCrossReferences=0
+NewIndexingOfSheetSymbols=1
+PushECOToAnnotationFile=1
+DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=0
+ConstraintManagerFlow=0
+IsVirtualBomDocumentRemoved=0
+OutputPath=
+LogFolderPath=
+ManagedProjectGUID=
+VaultGUID=
+ReleaseVaultName=
+Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=80F2BFE4-E61B-40B6-8462-D0CD2B6E16DC&ItemGUID=94A049F7-C23C-4CC8-9DC5-28D484FB1B1E&RevisionGUID=71632AD7-41D3-4CCE-9937-4AFA591B6C20&"MainFilename=ANavS M2 template.PrjPcb"
+IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
+CurrentVariant=Mosaic-G5_P6H
+ItemGUID=
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+
+[Release]
+ReleaseTarget=3
+
+[Document1]
+DocumentPath=Cover_Page.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VZPGLUJP
+
+[Document2]
+DocumentPath=M.2_Key_A+E_Card.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BZJURPEU
+
+[Document3]
+DocumentPath=Mosaic-G5.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TGBDAMTB
+
+[Document4]
+DocumentPath=M2_Mosaic-G5_Smart.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LUWWOGGR
+
+[Document5]
+DocumentPath=SchematicAndPcbPdf.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document6]
+DocumentPath=M2_Mosaic-G5_Smart.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document7]
+DocumentPath=Fabrication_ANavS.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8]
+DocumentPath=LICENSE.txt
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=cern_ohl_p_v2_howto.pdf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=ANavS_Ordering_Information.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=REPSMSVZ
+
+[Document11]
+DocumentPath=Fabrication_Drawing.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UFDMUZKV
+
+[Document12]
+DocumentPath=Assembly_Drawing.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DHMZAYZS
+
+[ProjectVariant1]
+UniqueId=ED09F0B1-3598-4031-A282-BE4D53262468
+Description=Mosaic-G5_P1
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=U1|UniqueId=\NAHUJIKC|Kind=2|AlternatePart=mosaic-G5-P1|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=ANavS GmbH|AltLibLink_SymbolReference=CMP-001-0014-3|AltLibLink_DesignItemID=CMP-001-0014-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ANavS GmbH|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=80F2BFE4-E61B-40B6-8462-D0CD2B6E16DC|AltLibLink_ItemGUID=87f1973e-b68e-4fbd-b975-a826c9e20d99|AltLibLink_RevisionGUID=b8e4bcbe-f877-4444-b2c6-11c194f97574|AltLibLink_Footprint=mosaic-G5-GENERIC-Footprint|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=mosaic-G5-P1
+ParamDesignator1=U1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=U1
+ParamVariation3=ParameterName=Description|VariantValue=mosaic-G5 GNSS Module - Low-power multi-band multi-constellation GNSS receiver.
+ParamDesignator3=U1
+ParamVariation4=ParameterName=Feature 1|VariantValue=single antenna
+ParamDesignator4=U1
+ParamVariation5=ParameterName=Feature 2|VariantValue=no 10 MHz in
+ParamDesignator5=U1
+ParamVariation6=ParameterName=Footprint|VariantValue=mosaic-G5-GENERIC-Footprint
+ParamDesignator6=U1
+ParamVariation7=ParameterName=Ibis Model|VariantValue=
+ParamDesignator7=U1
+ParamVariation8=ParameterName=Library Reference|VariantValue=CMP-001-0014-3
+ParamDesignator8=U1
+ParamVariation9=ParameterName=Manufacturer|VariantValue=septentrio
+ParamDesignator9=U1
+ParamVariation10=ParameterName=Max Operating Temperature|VariantValue=+85°C
+ParamDesignator10=U1
+ParamVariation11=ParameterName=Max Power Consumption|VariantValue=785mW
+ParamDesignator11=U1
+ParamVariation12=ParameterName=Max RF input power at ANT_1|VariantValue=20dBm
+ParamDesignator12=U1
+ParamVariation13=ParameterName=Max RF input power at ANT_2|VariantValue=10dBm
+ParamDesignator13=U1
+ParamVariation14=ParameterName=Max Storage Temperature|VariantValue=+85°C
+ParamDesignator14=U1
+ParamVariation15=ParameterName=Min Operating Temperature|VariantValue=-40°C
+ParamDesignator15=U1
+ParamVariation16=ParameterName=Min Storage Temperature|VariantValue=-55°C
+ParamDesignator16=U1
+ParamVariation17=ParameterName=PCB3D|VariantValue=
+ParamDesignator17=U1
+ParamVariation18=ParameterName=Peak Current Consumption|VariantValue=500mA
+ParamDesignator18=U1
+ParamVariation19=ParameterName=Pin Info|VariantValue=
+ParamDesignator19=U1
+ParamVariation20=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator20=U1
+ParamVariation21=ParameterName=Simulation|VariantValue=
+ParamDesignator21=U1
+ParamVariation22=ParameterName=Weight|VariantValue=2.2g
+ParamDesignator22=U1
+Variation2=Designator=J3|UniqueId=\CLMEVXVA|Kind=1|AlternatePart=
+ParamVariationCount=22
+
+[ProjectVariant2]
+UniqueId=D7E8548D-D393-4030-8D67-DD73D006799D
+Description=Mosaic-G5_P3
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=U1|UniqueId=\NAHUJIKC|Kind=2|AlternatePart=mosaic-G5-P3|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=ANavS GmbH|AltLibLink_SymbolReference=CMP-00025-00006-2|AltLibLink_DesignItemID=CMP-00025-00006-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ANavS GmbH|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=80F2BFE4-E61B-40B6-8462-D0CD2B6E16DC|AltLibLink_ItemGUID=0dfa4429-f6d3-4326-8068-c453b9f6c11d|AltLibLink_RevisionGUID=a984f160-ad57-4157-a6ea-9ce35ebb8c7a|AltLibLink_Footprint=mosaic-G5-GENERIC-Footprint|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=mosaic-G5-P3
+ParamDesignator1=U1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=U1
+ParamVariation3=ParameterName=Description|VariantValue=mosaic-G5 GNSS Module - Low-power multi-band multi-constellation GNSS receiver.
+ParamDesignator3=U1
+ParamVariation4=ParameterName=Feature 1|VariantValue=single antenna
+ParamDesignator4=U1
+ParamVariation5=ParameterName=Feature 2|VariantValue=no 10 MHz in
+ParamDesignator5=U1
+ParamVariation6=ParameterName=Footprint|VariantValue=mosaic-G5-GENERIC-Footprint
+ParamDesignator6=U1
+ParamVariation7=ParameterName=Ibis Model|VariantValue=
+ParamDesignator7=U1
+ParamVariation8=ParameterName=Library Reference|VariantValue=CMP-00025-00006-2
+ParamDesignator8=U1
+ParamVariation9=ParameterName=Manufacturer|VariantValue=septentrio
+ParamDesignator9=U1
+ParamVariation10=ParameterName=Max Operating Temperature|VariantValue=+85°C
+ParamDesignator10=U1
+ParamVariation11=ParameterName=Max Power Consumption|VariantValue=785mW
+ParamDesignator11=U1
+ParamVariation12=ParameterName=Max RF input power at ANT_1|VariantValue=20dBm
+ParamDesignator12=U1
+ParamVariation13=ParameterName=Max RF input power at ANT_2|VariantValue=10dBm
+ParamDesignator13=U1
+ParamVariation14=ParameterName=Max Storage Temperature|VariantValue=+85°C
+ParamDesignator14=U1
+ParamVariation15=ParameterName=Min Operating Temperature|VariantValue=-40°C
+ParamDesignator15=U1
+ParamVariation16=ParameterName=Min Storage Temperature|VariantValue=-55°C
+ParamDesignator16=U1
+ParamVariation17=ParameterName=PCB3D|VariantValue=
+ParamDesignator17=U1
+ParamVariation18=ParameterName=Peak Current Consumption|VariantValue=500mA
+ParamDesignator18=U1
+ParamVariation19=ParameterName=Pin Info|VariantValue=
+ParamDesignator19=U1
+ParamVariation20=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator20=U1
+ParamVariation21=ParameterName=Simulation|VariantValue=
+ParamDesignator21=U1
+ParamVariation22=ParameterName=Weight|VariantValue=2.2g
+ParamDesignator22=U1
+Variation2=Designator=J3|UniqueId=\CLMEVXVA|Kind=1|AlternatePart=
+ParamVariationCount=22
+
+[ProjectVariant3]
+UniqueId=2F7C952D-0797-456D-AA83-80270B9711F6
+Description=Mosaic-G5_P3H
+AllowFabrication=0
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=U1|UniqueId=\NAHUJIKC|Kind=2|AlternatePart=mosaic-G5-P3H|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=ANavS GmbH|AltLibLink_SymbolReference=CMP-00025-00007-2|AltLibLink_DesignItemID=CMP-00025-00007-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ANavS GmbH|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=80F2BFE4-E61B-40B6-8462-D0CD2B6E16DC|AltLibLink_ItemGUID=ec81d27d-19d6-4a14-b8cf-18128ebf6960|AltLibLink_RevisionGUID=e7a6f359-44e4-48b9-9e82-5f155cecf0f0|AltLibLink_Footprint=mosaic-G5-GENERIC-Footprint|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=mosaic-G5-P3H
+ParamDesignator1=U1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=U1
+ParamVariation3=ParameterName=Description|VariantValue=mosaic-G5 GNSS Module - Low-power multi-band multi-constellation GNSS receiver.
+ParamDesignator3=U1
+ParamVariation4=ParameterName=Feature 1|VariantValue=dual antenna
+ParamDesignator4=U1
+ParamVariation5=ParameterName=Feature 2|VariantValue=no 10 MHz in
+ParamDesignator5=U1
+ParamVariation6=ParameterName=Footprint|VariantValue=mosaic-G5-GENERIC-Footprint
+ParamDesignator6=U1
+ParamVariation7=ParameterName=Ibis Model|VariantValue=
+ParamDesignator7=U1
+ParamVariation8=ParameterName=Library Reference|VariantValue=CMP-00025-00007-2
+ParamDesignator8=U1
+ParamVariation9=ParameterName=Manufacturer|VariantValue=septentrio
+ParamDesignator9=U1
+ParamVariation10=ParameterName=Max Operating Temperature|VariantValue=+85°C
+ParamDesignator10=U1
+ParamVariation11=ParameterName=Max Power Consumption|VariantValue=785mW
+ParamDesignator11=U1
+ParamVariation12=ParameterName=Max RF input power at ANT_1|VariantValue=20dBm
+ParamDesignator12=U1
+ParamVariation13=ParameterName=Max RF input power at ANT_2|VariantValue=10dBm
+ParamDesignator13=U1
+ParamVariation14=ParameterName=Max Storage Temperature|VariantValue=+85°C
+ParamDesignator14=U1
+ParamVariation15=ParameterName=Min Operating Temperature|VariantValue=-40°C
+ParamDesignator15=U1
+ParamVariation16=ParameterName=Min Storage Temperature|VariantValue=-55°C
+ParamDesignator16=U1
+ParamVariation17=ParameterName=PCB3D|VariantValue=
+ParamDesignator17=U1
+ParamVariation18=ParameterName=Peak Current Consumption|VariantValue=500mA
+ParamDesignator18=U1
+ParamVariation19=ParameterName=Pin Info|VariantValue=
+ParamDesignator19=U1
+ParamVariation20=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator20=U1
+ParamVariation21=ParameterName=Simulation|VariantValue=
+ParamDesignator21=U1
+ParamVariation22=ParameterName=Weight|VariantValue=2.2g
+ParamDesignator22=U1
+ParamVariationCount=22
+
+[ProjectVariant4]
+UniqueId=B8612424-60E0-49B0-B95C-3A285EF0C88F
+Description=Mosaic-G5_P6H
+AllowFabrication=0
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=U1|UniqueId=\NAHUJIKC|Kind=2|AlternatePart=mosaic-G5-P6H|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=ANavS GmbH|AltLibLink_SymbolReference=CMP-00025-00008-2|AltLibLink_DesignItemID=CMP-00025-00008-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ANavS GmbH|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=80F2BFE4-E61B-40B6-8462-D0CD2B6E16DC|AltLibLink_ItemGUID=6019c3f0-02cc-4df8-8461-c8ad02d3a03b|AltLibLink_RevisionGUID=092c6570-17d9-4d07-9330-52e14af341f8|AltLibLink_Footprint=mosaic-G5-GENERIC-Footprint|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=mosaic-G5-P6H
+ParamDesignator1=U1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=U1
+ParamVariation3=ParameterName=Description|VariantValue=mosaic-G5 GNSS Module - Low-power multi-band multi-constellation GNSS receiver.
+ParamDesignator3=U1
+ParamVariation4=ParameterName=Feature 1|VariantValue=dual antenna
+ParamDesignator4=U1
+ParamVariation5=ParameterName=Feature 2|VariantValue=10 MHz in
+ParamDesignator5=U1
+ParamVariation6=ParameterName=Footprint|VariantValue=mosaic-G5-GENERIC-Footprint
+ParamDesignator6=U1
+ParamVariation7=ParameterName=Ibis Model|VariantValue=
+ParamDesignator7=U1
+ParamVariation8=ParameterName=Library Reference|VariantValue=CMP-00025-00008-2
+ParamDesignator8=U1
+ParamVariation9=ParameterName=Manufacturer|VariantValue=septentrio
+ParamDesignator9=U1
+ParamVariation10=ParameterName=Max Operating Temperature|VariantValue=+85°C
+ParamDesignator10=U1
+ParamVariation11=ParameterName=Max Power Consumption|VariantValue=785mW
+ParamDesignator11=U1
+ParamVariation12=ParameterName=Max RF input power at ANT_1|VariantValue=20dBm
+ParamDesignator12=U1
+ParamVariation13=ParameterName=Max RF input power at ANT_2|VariantValue=10dBm
+ParamDesignator13=U1
+ParamVariation14=ParameterName=Max Storage Temperature|VariantValue=+85°C
+ParamDesignator14=U1
+ParamVariation15=ParameterName=Min Operating Temperature|VariantValue=-40°C
+ParamDesignator15=U1
+ParamVariation16=ParameterName=Min Storage Temperature|VariantValue=-55°C
+ParamDesignator16=U1
+ParamVariation17=ParameterName=PCB3D|VariantValue=
+ParamDesignator17=U1
+ParamVariation18=ParameterName=Peak Current Consumption|VariantValue=500mA
+ParamDesignator18=U1
+ParamVariation19=ParameterName=Pin Info|VariantValue=
+ParamDesignator19=U1
+ParamVariation20=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator20=U1
+ParamVariation21=ParameterName=Simulation|VariantValue=
+ParamDesignator21=U1
+ParamVariation22=ParameterName=Weight|VariantValue=2.2g
+ParamDesignator22=U1
+ParamVariationCount=22
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\BOM\BOM1-M2_bom.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\BOM\BOM_M2_Mosaic-G5_Smart_REV_01.01_VARIANT_Mosaic-G5_P6H.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\bottom_surface_finish\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\dielectric_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\dielectric_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\rout\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\top_surface_finish\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\symbols\shape149b87ed\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\symbols\shapec3a3223c\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.G1
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.G2
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GM
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GM11
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GM12
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GM19
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GM24
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.REP
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Gerber\Gerber_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.REP
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Bottom_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Bottom_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Bottom_Component_Center.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Bottom_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Bottom_Designator.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Dimensions.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Top_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Top_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\GerberX2\Gerber_X2_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H_Top_Designator.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\NC Drill\NC_Drill_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\NC Drill\NC_Drill_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\NC Drill\NC_Drill_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\ODB++_M2_Mosaic-G5_Smart_REV_01.01_VARIANT_Mosaic-G5_P6H
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Pick Place\Pick_And_Place_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.txt
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Fabrication\Report Board Stack\Report_Board_Stack_M2_Mosaic-G5_Smart_REV_01_VARIANT_Mosaic-G5_P6H.xls
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ExportSTEP\STEP_M2_Mosaic-G5_Smart_REV_01.01_VARIANT_Mosaic-G5_P6H.step
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\layers\rout\tools
+DItemRevisionGUID=
+
+[Parameter1]
+Name=ASM_REVISION
+Value=01
+
+[Parameter2]
+Name=Assembly_Drawing_Title
+Value=M2 Mosaic-G5 SMART PCBA Assembly
+
+[Parameter3]
+Name=CheckedBy
+Value=V. Tratter
+
+[Parameter4]
+Name=CHK_APP_DATE
+Value=25.04.2025
+
+[Parameter5]
+Name=COPYRIGHT
+Value=© ANavS 2025
+
+[Parameter6]
+Name=DrawnBy
+Value=E. Daporta
+
+[Parameter7]
+Name=DSN_APP_DATE
+Value=23.04.2025
+
+[Parameter8]
+Name=ENG_APP_DATE
+Value=17.04.2025
+
+[Parameter9]
+Name=Engineer
+Value=E. Daporta
+
+[Parameter10]
+Name=FAB_REVISION
+Value=01
+
+[Parameter11]
+Name=Fabrication_Drawing_Title
+Value=M2 Mosaic-G5 SMART PCB Fabrication
+
+[Parameter12]
+Name=LICENSE_NOTICE
+Value=Licensed under CERN-OHL-P v2
+
+[Parameter13]
+Name=MODULE_NOMENCLATURE
+Value=M.2 2230-D6*-E-A
+
+[Parameter14]
+Name=PROJECT
+Value=M2_Mosaic-G5_Smart
+
+[Parameter15]
+Name=SCH_SCALE
+Value=n.a.
+
+[Configuration1]
+Name=Sources
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
+
+[Configuration2]
+Name=Fabrication
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Fabrication
+
+[Configuration3]
+Name=Assembly
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
+[Configuration4]
+Name=Assembly Mosaic-G5_P1
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=Mosaic-G5_P1
+OutputJobsCount=0
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
+[Configuration5]
+Name=Assembly Mosaic-G5_P3
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=Mosaic-G5_P3
+OutputJobsCount=0
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
+[Configuration6]
+Name=Assembly Mosaic-G5_P3H
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=Mosaic-G5_P3H
+OutputJobsCount=0
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
+[Configuration7]
+Name=Assembly Mosaic-G5_P6H
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=Mosaic-G5_P6H
+OutputJobsCount=0
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=Board Stack Report.XLT
+TemplateStoreRelative=-1
+PCB_PrintColor=0
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+Wir_PrintColor=0
+Ldr_PrintColor=0
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=M.2_mosaic-X5 w/ internal TXCO
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=
+
+[OutputGroup1]
+Name=Netlist Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CadnetixNetlist
+OutputName1=Cadnetix Netlist
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=CalayNetlist
+OutputName2=Calay Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=EDIF
+OutputName3=EDIF for PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EESofNetlist
+OutputName4=EESof Netlist
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=IntergraphNetlist
+OutputName5=Intergraph Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=MentorBoardStationNetlist
+OutputName6=Mentor BoardStation Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MultiWire
+OutputName7=MultiWire
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=OrCadPCB2Netlist
+OutputName8=Orcad/PCB2 Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=PADSNetlist
+OutputName9=PADS ASCII Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Pcad
+OutputName10=Pcad for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=PCADNetlist
+OutputName11=PCAD Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=SIMetrixNetlist
+OutputName21=SIMetrix
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SIMPLISNetlist
+OutputName22=SIMPLIS
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=XSpiceNetlist
+OutputName23=Mixed Sim Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+
+[OutputGroup2]
+Name=Simulator Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+
+[OutputGroup3]
+Name=Documentation Outputs
+Description=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
+OutputType1=Composite
+OutputName1=Composite Drawing
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=1|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name2=OutputConfigurationParameter2
+Configuration1_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name3=OutputConfigurationParameter3
+Configuration1_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name4=OutputConfigurationParameter4
+Configuration1_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name5=OutputConfigurationParameter5
+Configuration1_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name6=OutputConfigurationParameter6
+Configuration1_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name7=OutputConfigurationParameter7
+Configuration1_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name8=OutputConfigurationParameter8
+Configuration1_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name9=OutputConfigurationParameter9
+Configuration1_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name10=OutputConfigurationParameter10
+Configuration1_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name11=OutputConfigurationParameter11
+Configuration1_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name12=OutputConfigurationParameter12
+Configuration1_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical3|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name13=OutputConfigurationParameter13
+Configuration1_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name14=OutputConfigurationParameter14
+Configuration1_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical11|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name15=OutputConfigurationParameter15
+Configuration1_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical12|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name16=OutputConfigurationParameter16
+Configuration1_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name17=OutputConfigurationParameter17
+Configuration1_Item17=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical14|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name18=OutputConfigurationParameter18
+Configuration1_Item18=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name19=OutputConfigurationParameter19
+Configuration1_Item19=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name20=OutputConfigurationParameter20
+Configuration1_Item20=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical19|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name21=OutputConfigurationParameter21
+Configuration1_Item21=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical20|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+Configuration1_Name22=OutputConfigurationParameter22
+Configuration1_Item22=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical24|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic.PcbDoc
+OutputType2=PCB 3D Print
+OutputName2=PCB 3D Print
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=PCB 3D Video
+OutputName3=PCB 3D Video
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=PCB Print
+OutputName4=PCB Prints
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=PCBDrawing
+OutputName5=Draftsman
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=PCBLIB Print
+OutputName6=PCBLIB Prints
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=PDF3D
+OutputName7=PDF3D
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Report Print
+OutputName8=Report Prints
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Schematic Print
+OutputName9=Schematic Prints
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.67|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4|PaperIndex=9
+Configuration9_Name1=OutputConfigurationParameter1
+Configuration9_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.SchDoc
+OutputType10=SimView Print
+OutputName10=SimView Prints
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Harness Layout Drawing Print
+OutputName11=Harness Layout Drawing Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Harness Wiring Diagram Print
+OutputName12=Harness Wiring Diagram Prints
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=PDF3D MBA
+OutputName13=PDF3D MBA
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup4]
+Name=Assembly Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembly
+OutputName1=Assembly Drawings
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Wire Bonding Table
+OutputName4=Wire Bonding Table Report
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+
+[OutputGroup5]
+Name=Fabrication Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Board Stack Report
+OutputName1=Report Board Stack
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=CompositeDrill
+OutputName2=Composite Drill Drawing
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Drill
+OutputName3=Drill Drawing/Guides
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Final
+OutputName4=Final Artwork Prints
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Gerber
+OutputName5=Gerber Files
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=Gerber X2
+OutputName6=Gerber X2 Files
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=IPC2581
+OutputName7=IPC-2581 Files
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+OutputType8=Mask
+OutputName8=Solder/Paste Mask Prints
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=NC Drill
+OutputName9=NC Drill Files
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=ODB
+OutputName10=ODB++ Files
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+OutputType11=Plane
+OutputName11=Power-Plane Prints
+OutputDocumentPath11=
+OutputVariantName11=[No Variations]
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Test Points
+OutputName12=Test Point Report
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+
+[OutputGroup6]
+Name=Report Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
+OutputType2=BOM_ReportCompare
+OutputName2=BOM Compare
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=ComponentCrossReference
+OutputName3=Component Cross Reference Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Export Comments
+OutputName4=Export Comments
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=ReportHierarchy
+OutputName5=Report Project Hierarchy
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=Script
+OutputName6=Script Output
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=SimpleBOM
+OutputName7=Simple BOM
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+OutputType8=SinglePinNetReporter
+OutputName8=Report Single Pin Nets
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+OutputType9=Project History
+OutputName9=Project History
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup7]
+Name=Other Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Text Print
+OutputName1=Text Print
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_Violations
+OutputName1=BOM Checks Report
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=Component states check
+OutputName2=Server's components states check
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=Configuration compliance
+OutputName3=Environment configuration compliance check
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=Design Rules Check
+OutputName4=Design Rules Check
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Differences Report
+OutputName5=Differences Report
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Electrical Rules Check
+OutputName6=Electrical Rules Check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Footprint Comparison Report
+OutputName7=Footprint Comparison Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+
+[OutputGroup9]
+Name=Export Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=ExportIDF
+OutputName3=Export IDF
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportPARASOLID
+OutputName4=Export PARASOLID
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=ExportSTEP
+OutputName5=Export STEP
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ExportVRML
+OutputName6=Export VRML
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=Save As/Export PCB
+OutputName7=Save As/Export PCB
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=Save As/Export Schematic
+OutputName8=Save As/Export Schematic
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=Specctra Design PCB
+OutputName9=Specctra Design PCB
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Web ReviewOutputName
+OutputName10=Web Review Data
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=MBAExportPARASOLID
+OutputName11=Export PARASOLID
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=MBAExportSTEP
+OutputName12=Export STEP
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[Modification Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
+Type117=1
+Type118=1
+Type119=1
+Type120=1
+Type121=1
+Type122=1
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=1
+Type129=1
+Type130=1
+Type131=1
+Type132=1
+Type133=1
+Type134=1
+Type135=1
+Type136=1
+Type137=1
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=1
+Type148=1
+Type149=1
+Type150=1
+Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
+Type159=1
+
+[Difference Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+
+[Electrical Rules Check]
+Type1=1
+Type2=1
+Type3=2
+Type4=1
+Type5=2
+Type6=2
+Type7=0
+Type8=1
+Type9=1
+Type10=0
+Type11=2
+Type12=2
+Type13=2
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
+Type24=1
+Type25=2
+Type26=0
+Type27=2
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=2
+Type33=0
+Type34=2
+Type35=1
+Type36=2
+Type37=1
+Type38=2
+Type39=2
+Type40=2
+Type41=0
+Type42=2
+Type43=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
+Type50=2
+Type51=0
+Type52=0
+Type53=1
+Type54=1
+Type55=1
+Type56=2
+Type57=1
+Type58=1
+Type59=2
+Type60=0
+Type61=0
+Type62=0
+Type63=0
+Type64=0
+Type65=2
+Type66=3
+Type67=2
+Type68=2
+Type69=0
+Type70=2
+Type71=2
+Type72=2
+Type73=2
+Type74=1
+Type75=2
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=2
+Type81=3
+Type82=3
+Type83=3
+Type84=3
+Type85=3
+Type86=2
+Type87=2
+Type88=2
+Type89=1
+Type90=1
+Type91=3
+Type92=3
+Type93=2
+Type94=2
+Type95=2
+Type96=2
+Type97=2
+Type98=0
+Type99=1
+Type100=2
+Type101=0
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
+MultiChannelAlternate=0
+AlternateItemFail=3
+Type122=2
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=2
+Type129=2
+Type130=2
+Type131=2
+Type132=2
+Type133=2
+Type134=2
+Type135=2
+Type136=2
+Type137=2
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=2
+Type148=2
+Type149=2
+Type150=2
+Type151=2
+Type152=1
+Type153=1
+Type154=0
+Type155=0
+Type156=0
+Type157=0
+Type158=0
+Type159=0
+Type160=0
+Type161=0
+Type162=1
+Type163=1
+
+[ERC Connection Matrix]
+L1=NNNNNNNNNNNWNNNWW
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
+L4=NNENNNWEENNWNENWN
+L5=NNNNNNNNNNNNNNNNN
+L6=NNENNNNEENNWNENWN
+L7=NNEWNNWEENNWNENWN
+L8=NWEENEENEEENNEENN
+L9=NWEENEEEENEWNEEWW
+L10=NWNNNNNENNEWNNEWN
+L11=NNENNNNEEENWNENWN
+L12=WWWWNWWNWWWNWWWNN
+L13=NNNNNNNNNNNWNNNWW
+L14=NWEENEEEENEWNEEWW
+L15=NNENNNNEEENWNENWW
+L16=WWWWNWWNWWWNWWWNW
+L17=WNNNNNNNWNNNWWWWN
+
+[Annotate]
+SortOrder=3
+SortLocation=0
+ReplaceSubparts=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
+GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
+
+[PrjClassGen]
+CompClassManualEnabled=0
+CompClassManualRoomEnabled=0
+NetClassAutoBusEnabled=1
+NetClassAutoCompEnabled=0
+NetClassAutoNamedHarnessEnabled=0
+NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
+
+[LibraryUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+ComponentLibIdentifierKind0=Library Full Path
+ComponentLibraryIdentifier0=ANavS GmbH
+ComponentDesignItemID0=CMP-00025-00004-1
+ComponentSymbolReference0=CMP-00025-00004-1
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name Only
+ComponentLibraryIdentifier1=ANavS GmbH
+ComponentDesignItemID1=CMP-00025-00003-4
+ComponentSymbolReference1=mosaic-X5/H
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name Only
+ComponentLibraryIdentifier2=ANavS GmbH
+ComponentDesignItemID2=CMP-00028-00005-2
+ComponentSymbolReference2=CMP-00134-2
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name Only
+ComponentLibraryIdentifier3=ANavS GmbH
+ComponentDesignItemID3=CMP-001-00089-1
+ComponentSymbolReference3=CAP
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name Only
+ComponentLibraryIdentifier4=ANavS GmbH
+ComponentDesignItemID4=CMP-001-00090-1
+ComponentSymbolReference4=CAP
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name Only
+ComponentLibraryIdentifier5=ANavS GmbH
+ComponentDesignItemID5=CMP-001-00092-1
+ComponentSymbolReference5=CAP
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name Only
+ComponentLibraryIdentifier6=ANavS GmbH
+ComponentDesignItemID6=CMP-002-00078-1
+ComponentSymbolReference6=Anavs_M.2_keyE_card
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name Only
+ComponentLibraryIdentifier7=ANavS GmbH
+ComponentDesignItemID7=CMP-004-00033-1
+ComponentSymbolReference7=f813f71cba58e380607f5dd3caf9714
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name Only
+ComponentLibraryIdentifier8=ANavS GmbH
+ComponentDesignItemID8=CMP-006-00023-1
+ComponentSymbolReference8=5f30dd21d616792df468990f7003faa
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name Only
+ComponentLibraryIdentifier9=ANavS GmbH
+ComponentDesignItemID9=CMP-006-00025-1
+ComponentSymbolReference9=PAS-IND-INDUCTOR-2
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name Only
+ComponentLibraryIdentifier10=ANavS GmbH
+ComponentDesignItemID10=CMP-006-00028-1
+ComponentSymbolReference10=725321dda6339637d4d059423bc1c3c
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name Only
+ComponentLibraryIdentifier11=ANavS GmbH
+ComponentDesignItemID11=CMP-006-00029-2
+ComponentSymbolReference11=PAS-IND-INDUCTOR-2
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name Only
+ComponentLibraryIdentifier12=ANavS GmbH
+ComponentDesignItemID12=CMP-009-00185-1
+ComponentSymbolReference12=RES
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name Only
+ComponentLibraryIdentifier13=ANavS GmbH
+ComponentDesignItemID13=CMP-009-00186-1
+ComponentSymbolReference13=RES
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name Only
+ComponentLibraryIdentifier14=ANavS GmbH
+ComponentDesignItemID14=CMP-009-00187-1
+ComponentSymbolReference14=RES
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name Only
+ComponentLibraryIdentifier15=ANavS GmbH
+ComponentDesignItemID15=CMP-009-00188-1
+ComponentSymbolReference15=RES
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name Only
+ComponentLibraryIdentifier16=ANavS GmbH
+ComponentDesignItemID16=CMP-012-000002-4
+ComponentSymbolReference16=74AVC4T774GUX
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name Only
+ComponentLibraryIdentifier17=ANavS GmbH
+ComponentDesignItemID17=CMP-013-00036-1
+ComponentSymbolReference17=ONSC-BRT-NPN-B1E2C3-3
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name Only
+ComponentLibraryIdentifier18=ANavS GmbH
+ComponentDesignItemID18=CMP-017-000004-1
+ComponentSymbolReference18=66012202111305
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name Only
+ComponentLibraryIdentifier19=ANavS GmbH
+ComponentDesignItemID19=CMP-019-00049-2
+ComponentSymbolReference19=09123dc16696ad6c32efc553fd6e8ee
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name Only
+ComponentLibraryIdentifier20=ANavS GmbH
+ComponentDesignItemID20=CMP-020-000000-2
+ComponentSymbolReference20=SESD0402X1BN-0010-098
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+FullReplace=1
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
+DoGraphics=1
+DoParameters=1
+DoModels=1
+AddParameters=0
+RemoveParameters=0
+AddModels=1
+RemoveModels=1
+UpdateCurrentModels=1
+ParameterName0=Arrow Part Number
+ParameterUpdate0=1
+ParameterName1=Arrow Price/Stock
+ParameterUpdate1=1
+ParameterName2=Breakdown Voltage
+ParameterUpdate2=1
+ParameterName3=Capacitance
+ParameterUpdate3=1
+ParameterName4=Case Code (Imperial)
+ParameterUpdate4=1
+ParameterName5=Case Code (Metric)
+ParameterUpdate5=1
+ParameterName6=Case/Package
+ParameterUpdate6=1
+ParameterName7=Center Contact Diameter
+ParameterUpdate7=1
+ParameterName8=Clamping Voltage
+ParameterUpdate8=1
+ParameterName9=ClassName
+ParameterUpdate9=1
+ParameterName10=Collector Emitter Breakdown Voltage
+ParameterUpdate10=1
+ParameterName11=Collector Emitter Saturation Voltage
+ParameterUpdate11=1
+ParameterName12=Collector Emitter Voltage (VCEO)
+ParameterUpdate12=1
+ParameterName13=Collector-emitter Voltage-Max
+ParameterUpdate13=1
+ParameterName14=Comment
+ParameterUpdate14=1
+ParameterName15=Component Kind
+ParameterUpdate15=1
+ParameterName16=Component Type
+ParameterUpdate16=1
+ParameterName17=ComponentLink1Description
+ParameterUpdate17=1
+ParameterName18=ComponentLink1URL
+ParameterUpdate18=1
+ParameterName19=ComponentLink2Description
+ParameterUpdate19=1
+ParameterName20=ComponentLink2URL
+ParameterUpdate20=1
+ParameterName21=Connector Type
+ParameterUpdate21=1
+ParameterName22=Construction
+ParameterUpdate22=1
+ParameterName23=Contact Plating
+ParameterUpdate23=1
+ParameterName24=Continuous Collector Current
+ParameterUpdate24=1
+ParameterName25=Core Material
+ParameterUpdate25=1
+ParameterName26=Current Rating
+ParameterUpdate26=1
+ParameterName27=Datasheet Link
+ParameterUpdate27=1
+ParameterName28=DC Resistance (DCR)
+ParameterUpdate28=1
+ParameterName29=Depth
+ParameterUpdate29=1
+ParameterName30=Description
+ParameterUpdate30=1
+ParameterName31=Design Item ID
+ParameterUpdate31=1
+ParameterName32=Dielectric
+ParameterUpdate32=1
+ParameterName33=Dielectric Material
+ParameterUpdate33=1
+ParameterName34=Diode Type
+ParameterUpdate34=1
+ParameterName35=Direction
+ParameterUpdate35=1
+ParameterName36=Dissipation Factor
+ParameterUpdate36=1
+ParameterName37=Efficiency
+ParameterUpdate37=1
+ParameterName38=Element Configuration
+ParameterUpdate38=1
+ParameterName39=Emitter Base Voltage (VEBO)
+ParameterUpdate39=1
+ParameterName40=Features
+ParameterUpdate40=1
+ParameterName41=Frequency Range
+ParameterUpdate41=1
+ParameterName42=Gender
+ParameterUpdate42=1
+ParameterName43=Halogen Free
+ParameterUpdate43=1
+ParameterName44=Height
+ParameterUpdate44=1
+ParameterName45=Height - Seated (Max)
+ParameterUpdate45=1
+ParameterName46=hFE Min
+ParameterUpdate46=1
+ParameterName47=Impedance
+ParameterUpdate47=1
+ParameterName48=Inductance
+ParameterUpdate48=1
+ParameterName49=Inductance Tolerance
+ParameterUpdate49=1
+ParameterName50=Interface
+ParameterUpdate50=1
+ParameterName51=Lead Free
+ParameterUpdate51=1
+ParameterName52=Lead Pitch
+ParameterUpdate52=1
+ParameterName53=Leakage Current
+ParameterUpdate53=1
+ParameterName54=Length
+ParameterUpdate54=1
+ParameterName55=Library Reference
+ParameterUpdate55=1
+ParameterName56=Manufacturer
+ParameterUpdate56=1
+ParameterName57=Manufacturer Part Number
+ParameterUpdate57=1
+ParameterName58=Manufacturer_Name
+ParameterUpdate58=1
+ParameterName59=Manufacturer_Part_Number
+ParameterUpdate59=1
+ParameterName60=Material
+ParameterUpdate60=1
+ParameterName61=Max Breakdown Voltage
+ParameterUpdate61=1
+ParameterName62=Max Collector Current
+ParameterUpdate62=1
+ParameterName63=Max Current Rating
+ParameterUpdate63=1
+ParameterName64=Max DC Current
+ParameterUpdate64=1
+ParameterName65=Max Frequency
+ParameterUpdate65=1
+ParameterName66=Max Input Voltage
+ParameterUpdate66=1
+ParameterName67=Max Operating Temperature
+ParameterUpdate67=1
+ParameterName68=Max Output Current
+ParameterUpdate68=1
+ParameterName69=Max Output Voltage
+ParameterUpdate69=1
+ParameterName70=Max Power Dissipation
+ParameterUpdate70=1
+ParameterName71=Max Surge Current
+ParameterUpdate71=1
+ParameterName72=Military Standard
+ParameterUpdate72=1
+ParameterName73=Min Breakdown Voltage
+ParameterUpdate73=1
+ParameterName74=Min Input Voltage
+ParameterUpdate74=1
+ParameterName75=Min Operating Temperature
+ParameterUpdate75=1
+ParameterName76=Min Output Voltage
+ParameterUpdate76=1
+ParameterName77=Mount
+ParameterUpdate77=1
+ParameterName78=Mounting Technology
+ParameterUpdate78=1
+ParameterName79=Mouser Part Number
+ParameterUpdate79=1
+ParameterName80=Mouser Price/Stock
+ParameterUpdate80=1
+ParameterName81=Nominal Supply Current
+ParameterUpdate81=1
+ParameterName82=Number of Bidirectional Channels
+ParameterUpdate82=1
+ParameterName83=Number of Channels
+ParameterUpdate83=1
+ParameterName84=Number of Lines
+ParameterUpdate84=1
+ParameterName85=Number of Outputs
+ParameterUpdate85=1
+ParameterName86=Number of Pins
+ParameterUpdate86=1
+ParameterName87=Number of Terminations
+ParameterUpdate87=1
+ParameterName88=Number of Unidirectional Channels
+ParameterUpdate88=1
+ParameterName89=Operating Supply Voltage
+ParameterUpdate89=1
+ParameterName90=Operating Temperature max.
+ParameterUpdate90=1
+ParameterName91=Operating Temperature min.
+ParameterUpdate91=1
+ParameterName92=Orientation
+ParameterUpdate92=1
+ParameterName93=Output Configuration
+ParameterUpdate93=1
+ParameterName94=Output Current
+ParameterUpdate94=1
+ParameterName95=Output Type
+ParameterUpdate95=1
+ParameterName96=Output Voltage
+ParameterUpdate96=1
+ParameterName97=Package Quantity
+ParameterUpdate97=1
+ParameterName98=Packaging
+ParameterUpdate98=1
+ParameterName99=Peak Pulse Current
+ParameterUpdate99=1
+ParameterName100=Peak Pulse Power
+ParameterUpdate100=1
+ParameterName101=Pin Count
+ParameterUpdate101=1
+ParameterName102=Pins
+ParameterUpdate102=1
+ParameterName103=Polarity
+ParameterUpdate103=1
+ParameterName104=Power Dissipation
+ParameterUpdate104=1
+ParameterName105=Power Line Protection
+ParameterUpdate105=1
+ParameterName106=Power Rating
+ParameterUpdate106=1
+ParameterName107=Quiescent Current
+ParameterUpdate107=1
+ParameterName108=Radiation Hardening
+ParameterUpdate108=1
+ParameterName109=REACH SVHC
+ParameterUpdate109=1
+ParameterName110=Resistance
+ParameterUpdate110=1
+ParameterName111=Resistance Tolerance
+ParameterUpdate111=1
+ParameterName112=Resistor Type
+ParameterUpdate112=1
+ParameterName113=Reverse Standoff Voltage
+ParameterUpdate113=1
+ParameterName114=RMS Current (Irms)
+ParameterUpdate114=1
+ParameterName115=RoHS Compliant
+ParameterUpdate115=1
+ParameterName116=Saturation Current
+ParameterUpdate116=1
+ParameterName117=Self Resonant Frequency
+ParameterUpdate117=1
+ParameterName118=Series
+ParameterUpdate118=1
+ParameterName119=Shielding
+ParameterUpdate119=1
+ParameterName120=Size Code
+ParameterUpdate120=1
+ParameterName121=Source
+ParameterUpdate121=1
+ParameterName122=Switching Frequency
+ParameterUpdate122=1
+ParameterName123=Synchronous Rectifier
+ParameterUpdate123=1
+ParameterName124=Technology
+ParameterUpdate124=1
+ParameterName125=Temperature Coefficient
+ParameterUpdate125=1
+ParameterName126=Termination
+ParameterUpdate126=1
+ParameterName127=Test Frequency
+ParameterUpdate127=1
+ParameterName128=Thickness
+ParameterUpdate128=1
+ParameterName129=Tolerance
+ParameterUpdate129=1
+ParameterName130=Topology
+ParameterUpdate130=1
+ParameterName131=Voltage
+ParameterUpdate131=1
+ParameterName132=Voltage Rating
+ParameterUpdate132=1
+ParameterName133=Voltage Rating (DC)
+ParameterUpdate133=1
+ParameterName134=Weight
+ParameterUpdate134=1
+ParameterName135=Width
+ParameterUpdate135=1
+ParameterName136=Working Voltage
+ParameterUpdate136=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=66012202111305
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=74AVC4T774GUX
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=CAPC1608X90X35LL15T15
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=CAPC1608X90X35ML15T15
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=CAPC1608X90X35NL15T15
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=FID1X2R
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=FP-742792040-IPC_A
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=FP-742792040-IPC_B
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=FP-742792040-IPC_C
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=FP-742792040-MFG
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=FP-C0402-BB-IPC_A
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=FP-C0402-BB-IPC_B
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=FP-C0402-BB-IPC_C
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=FP-C0402-BB-MFG
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=FP-DDC0006A-IPC_A
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=FP-DDC0006A-IPC_B
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=FP-DDC0006A-IPC_C
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=FP-DDC0006A-MFG
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=FP-GRJ155-0_2-IPC_A
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=FP-GRJ155-0_2-IPC_B
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=FP-GRJ155-0_2-IPC_C
+ModelUpdate20=1
+ModelType21=PCBLIB
+ModelName21=FP-GRJ155-0_2-MFG
+ModelUpdate21=1
+ModelType22=PCBLIB
+ModelName22=FP-NR3010-MFG
+ModelUpdate22=1
+ModelType23=PCBLIB
+ModelName23=FP-SOD-323-IPC_A
+ModelUpdate23=1
+ModelType24=PCBLIB
+ModelName24=FP-SOD-323-IPC_B
+ModelUpdate24=1
+ModelType25=PCBLIB
+ModelName25=FP-SOD-323-IPC_C
+ModelUpdate25=1
+ModelType26=PCBLIB
+ModelName26=FP-SOD-323-MFG
+ModelUpdate26=1
+ModelType27=PCBLIB
+ModelName27=INDC1005X06N
+ModelUpdate27=1
+ModelType28=PCBLIB
+ModelName28=INDC1608X10N
+ModelUpdate28=1
+ModelType29=PCBLIB
+ModelName29=LGA239C127P23X23_3100X3100X417
+ModelUpdate29=1
+ModelType30=PCBLIB
+ModelName30=M.2 key E card-Footprint-1
+ModelUpdate30=1
+ModelType31=PCBLIB
+ModelName31=ONSC-SOT-723-3-631AA-01_V
+ModelUpdate31=1
+ModelType32=PCBLIB
+ModelName32=RESC1005X40X25LL05T10
+ModelUpdate32=1
+ModelType33=PCBLIB
+ModelName33=RESC1005X40X25ML05T10
+ModelUpdate33=1
+ModelType34=PCBLIB
+ModelName34=RESC1005X40X25NL05T10
+ModelUpdate34=1
+ModelType35=PCBLIB
+ModelName35=SESD0402X1BN0010098
+ModelUpdate35=1
+
+[DatabaseUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration_Name1=OutputConfigurationParameter1
+Configuration_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name2=OutputConfigurationParameter2
+Configuration_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name3=OutputConfigurationParameter3
+Configuration_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name4=OutputConfigurationParameter4
+Configuration_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name5=OutputConfigurationParameter5
+Configuration_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name6=OutputConfigurationParameter6
+Configuration_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name7=OutputConfigurationParameter7
+Configuration_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name8=OutputConfigurationParameter8
+Configuration_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name9=OutputConfigurationParameter9
+Configuration_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name10=OutputConfigurationParameter10
+Configuration_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name11=OutputConfigurationParameter11
+Configuration_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name12=OutputConfigurationParameter12
+Configuration_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name13=OutputConfigurationParameter13
+Configuration_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical3|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name14=OutputConfigurationParameter14
+Configuration_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name15=OutputConfigurationParameter15
+Configuration_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical11|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name16=OutputConfigurationParameter16
+Configuration_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical12|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name17=OutputConfigurationParameter17
+Configuration_Item17=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name18=OutputConfigurationParameter18
+Configuration_Item18=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical14|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name19=OutputConfigurationParameter19
+Configuration_Item19=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name20=OutputConfigurationParameter20
+Configuration_Item20=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name21=OutputConfigurationParameter21
+Configuration_Item21=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical19|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name22=OutputConfigurationParameter22
+Configuration_Item22=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical20|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+Configuration_Name23=OutputConfigurationParameter23
+Configuration_Item23=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical24|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.PcbDoc
+
