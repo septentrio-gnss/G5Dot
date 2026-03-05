@@ -59,8 +59,6 @@ For more information about Septentrio products go to https://www.septentrio.com/
 | 53	|GPIO2         |
 
 
-
-
 Interface
 -	USB (device 2.0 HS up to 480Mbps)
 -	Configure PPS via u.FI
