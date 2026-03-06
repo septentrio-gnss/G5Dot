@@ -21,7 +21,7 @@ Septentrio is a top company that designs, manufactures and sells high precision 
 
 Steptentrio's technology offers high accuracy and reliability thanks to GNSS + algorithms as well as [Septentrio's Advanced interference Monitoring and mitigation (AIM+)](https://www.septentrio.com/en/learn-more/advanced-positioning-technology/aim-anti-jamming-protection) This protects against jamming (RF interference) and spoofing
 
-For more information about Septentrio products go to https://www.septentrio.com/
+For more information about Septentrio products go to [**https://www.septentrio.com/**](https://web.septentrio.com/GH-SSN-home).
 
 ## User documentation
 
