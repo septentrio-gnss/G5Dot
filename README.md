@@ -48,7 +48,7 @@ You can order the mosaics from Digikey or you can contact Septentrio for direct 
 | MosaicM2G5 |     - | [100040](https://www.digikey.com/en/products/detail/anavs-gmbh/100040/28164182) |
 
 ### Interfaces
-<img src="/pictures/M.2 interface.png" width="80%">
+<img src="/pictures/M2G5 Interface.png" width="80%">
 #### Pinout for M.2 Key_A+E Connector 
 
 | Pin # |Signal            |
