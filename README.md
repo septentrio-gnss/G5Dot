@@ -4,7 +4,7 @@ MosaicM2G5 board from ANavS
 Maintainer: [(Septentrio gnss github user)](githubuser@septentrio.com)
 License: 
 ## What is the MosaicM2G5?
-![](/pictures/M.2%20main%20board.png)
+<img src="/pictures/M.2%20main%20board.png" width="80%">
 This is a compact, high precision GNSS (General Navigation Satellite system) receiver card design for embedded computing platforms ideal for industrial PCs such as Nvidia Jetson. This card is developed by ANavS. Its small size and low power consumption makes it appropriate for applications where space and efficiency are critical. 
 It is based on the mosaic G5 GNSS receiver with multiple satellite systems able to achieve 1cm precise positioning, allowing it to connect to achieve 1cm precise positioning and multiple satellite systems at once.          (M.2 Key E+A)
 
