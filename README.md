@@ -16,7 +16,7 @@ This is a Septentrio’s now newest multi-band multi-constellation low power GNS
  You can used other [Mosaic modules](https://www.septentrio.com/en/products/gnss-receivers?f%5B0%5D=type%3A604) such as Mosaic G5-p1, Mosaic G5-P3,Mosaic G5-P3H, but you need to pay attention and take into consideration the functions and pins that could be exposed, then modify the design for the purpose of your own project.
 
 ## Who is Septemtrio?
-![logo](/pictures/Septentrio_logo.png)
+<img src="/pictures/Septentrio_logo.png" width="30%">
 
 Septentrio is a top company that designs, manufactures and sells high precision and multi-frequency GPS/GNSS receivers for demanding applications. Septentrio products are used in different industries including automotive, marine, construction, rail, machine control, logistics, precision agriculture, geographic information systems (GIS), Unmanned aerial vehicles (UAVs), survey, mapping and scientific. Septentrio’s receivers constantly delivers accurate and precise GNSS positioning scalable to centimetre-level designed to perform perfectly in challenging environments. 
 
@@ -32,7 +32,7 @@ The MosaicM2G5 used the *Mosaic G5-P3* not *Mosaic G5-P6* please pay attention t
 * Altium Project files
 * schematics PBF 
 * BOM (Bill Of Materials)
-#### Ordering mosaic
+#### Ordering Mosaic
 
 You can order the mosaics from Digikey or you can contact Septentrio for direct purchasing or for other mosaic models.
 
