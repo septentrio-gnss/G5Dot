@@ -5,7 +5,7 @@ Maintainer: [(Septentrio gnss github user)](githubuser@septentrio.com)
 License: 
 ## What is the MosaicM2G5?
 This is a compact, high precision GNSS (General Navigation Satellite system) receiver card design for embedded computing platforms ideal for industrial PCs such as Nvidia Jetson. This card is developed by ANavS. Its small size and low power consumption makes it appropriate for applications where space and efficiency are critical. 
-It is based on the mosaic G5 GNSS receiver with multiple satellite systems able to achieve 1cm precise positioning, allowing it to connect to achieve 1cm precise positioning and multiple satellite systems at once.
+It is based on the mosaic G5 GNSS receiver with multiple satellite systems able to achieve 1cm precise positioning, allowing it to connect to achieve 1cm precise positioning and multiple satellite systems at once.          (M.2 Key E+A)
 
 ## Table of Content
 
@@ -13,13 +13,7 @@ It is based on the mosaic G5 GNSS receiver with multiple satellite systems able 
 This is a Septentrio’s now newest multi-band multi-constellation low power GNSS receivers that provides high position and highly protects against jamming and spoofing.
 #### Other mosaic versions
  You can used other [Mosaic modules](https://www.septentrio.com/en/products/gnss-receivers?f%5B0%5D=type%3A604) such as Mosaic G5-p1, Mosaic G5-P3,Mosaic G5-P3H, but you need to pay attention and take into consideration the functions and pins that could be exposed, then modify the design for the purpose of your own project.
-| Mosaic versions | Septentrio | Digikey|
-|-----------------|------------|--------|
-| Mosaic G5-p1 | Signal Name | I/O Type |
-| Mosaic G5-P3 | Signal Name | I/O Type |
-| Mosaic G5-P3H | Signal Name | I/O Type |
-| Pin NUMBER | Signal Name | I/O Type |
-| Pin NUMBER | Signal Name | I/O Type |
+
 ## Who is Septemtrio?
 ![logo](/pictures/Septentrio_logo.png)
 
@@ -37,14 +31,14 @@ For more information about Septentrio products go to [**https://www.septentrio.c
 * BOM (Bill Of Materials)
 #### Ordering mosaic
 
-You can order the mosai from Digikey or you can contact Septentrio for direct purchasing or for other mosaic models.
+You can order the mosaics from Digikey or you can contact Septentrio for direct purchasing or for other mosaic models.
 
-| Mosaic versions | Septentrio | Digikey|
+| Mosaic versions | Septentrio | Digikey part_number|
 |-----------------|------------|--------|
-| Mosaic G5-p1 | https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-g5-p1 |  |
+| Mosaic G5-p1 | https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-g5-p1 | - |
 | Mosaic G5-P3 | https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3 | [410501](https://www.digikey.com/en/products/detail/septentrio-inc/410501/28527327) |
 | Mosaic G5-P3H |https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3H | [410502](https://www.digikey.com/en/products/detail/septentrio-inc/410502/28527213) |
-| MosaicM2G5 | - | [100040](https://www.digikey.com/en/products/detail/anavs-gmbh/100040/28164182) |
+| MosaicM2G5 |     - | [100040](https://www.digikey.com/en/products/detail/anavs-gmbh/100040/28164182) |
 
 
 #### Pinout for M.2 Key_A+E Connector 
