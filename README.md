@@ -4,6 +4,7 @@ MosaicM2G5 board from ANavS
 Maintainer: [(Septentrio gnss github user)](githubuser@septentrio.com)
 License: 
 ## What is the MosaicM2G5?
+![](/pictures/M.2%20main%20board.png)
 This is a compact, high precision GNSS (General Navigation Satellite system) receiver card design for embedded computing platforms ideal for industrial PCs such as Nvidia Jetson. This card is developed by ANavS. Its small size and low power consumption makes it appropriate for applications where space and efficiency are critical. 
 It is based on the mosaic G5 GNSS receiver with multiple satellite systems able to achieve 1cm precise positioning, allowing it to connect to achieve 1cm precise positioning and multiple satellite systems at once.          (M.2 Key E+A)
 
@@ -22,6 +23,8 @@ Septentrio is a top company that designs, manufactures and sells high precision 
 Steptentrio's technology offers high accuracy and reliability thanks to GNSS + algorithms as well as [Septentrio's Advanced interference Monitoring and mitigation (AIM+)](https://www.septentrio.com/en/learn-more/advanced-positioning-technology/aim-anti-jamming-protection) This protects against jamming (RF interference) and spoofing
 
 For more information about Septentrio products go to [**https://www.septentrio.com/**](https://web.septentrio.com/GH-SSN-home).
+## Caution
+The MosaicM2G5 used the *Mosaic G5-P3* not *Mosaic G5-P6* please pay attention to that when making your own project.
 
 ## User documentation
 
@@ -35,9 +38,9 @@ You can order the mosaics from Digikey or you can contact Septentrio for direct 
 
 | Mosaic versions | Septentrio | Digikey part_number|
 |-----------------|------------|--------|
-| Mosaic G5-p1 | https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-g5-p1 | - |
-| Mosaic G5-P3 | https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3 | [410501](https://www.digikey.com/en/products/detail/septentrio-inc/410501/28527327) |
-| Mosaic G5-P3H |https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3H | [410502](https://www.digikey.com/en/products/detail/septentrio-inc/410502/28527213) |
+| Mosaic G5-P1 |[Septentrio_G5-P1] (https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-g5-p1) | - |
+| Mosaic G5-P3 | [Septentrio_G5-P3](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/)mosaic-G5-P3 | [410501](https://www.digikey.com/en/products/detail/septentrio-inc/410501/28527327) |
+| Mosaic G5-P3H |[Septentrio_G5-P3H](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3H) | [410502](https://www.digikey.com/en/products/detail/septentrio-inc/410502/28527213) |
 | MosaicM2G5 |     - | [100040](https://www.digikey.com/en/products/detail/anavs-gmbh/100040/28164182) |
 
 
