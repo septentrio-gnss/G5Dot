@@ -49,6 +49,7 @@ You can order the mosaics from Digikey or you can contact Septentrio for direct 
 
 ### Interfaces
 <img src="/pictures/M2G5 Interface.png" width="80%">
+
 #### Pinout for M.2 Key_A+E Connector 
 
 | Pin # |Signal            |
