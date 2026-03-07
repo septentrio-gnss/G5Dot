@@ -26,6 +26,10 @@ For more information about Septentrio products go to [**https://www.septentrio.c
 ## Caution
 The MosaicM2G5 used the *Mosaic G5-P3* not *Mosaic G5-P6* please pay attention to that when making your own project.
 
+The M.2 Key E+A connector can fit into a Key E and Key A slots. Plus a Key A and Key E can also fit in both Key A and Key E slots.   
+
+<img src="/pictures/M.2 interface.png" width="60%" url="https://www.delock.com/infothek/M.2_2022/images/keys-a-e_engl.jpg">
+
 ## User documentation
 
 ### Hardware files
@@ -43,7 +47,8 @@ You can order the mosaics from Digikey or you can contact Septentrio for direct 
 | Mosaic G5-P3H |[Septentrio_G5-P3H](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3H) | [410502](https://www.digikey.com/en/products/detail/septentrio-inc/410502/28527213) |
 | MosaicM2G5 |     - | [100040](https://www.digikey.com/en/products/detail/anavs-gmbh/100040/28164182) |
 
-
+### Interfaces
+<img src="/pictures/M.2 interface.png" width="80%">
 #### Pinout for M.2 Key_A+E Connector 
 
 | Pin # |Signal            |
