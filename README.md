@@ -79,29 +79,10 @@ You can order the mosaics from Digi-key, or you can contact Septentrio for direc
 |-------|------------------|
 | 3	    |USB D+            |
 | 5	    |USB D-            |
-| 2, 4	|VBAT              |
-| 2 	|LED#1             |
-| 16	|LED#2             |
 | 2,4,72,74	|power 3.3V    |
 | GND	|GND               |
 
-
-#### Pinout for mosaicG5 
-
-| Pin #	|Signal     |
-|-------|-----------|
-| 2	    |ANT 1      |
-| 5	    |ANT 2      |
-| 42    |PPS1 OUT   |
-| 12	|USB D+     |
-| 13	|USB D-        |
-| 14	|USB VBUS      |
-| 51	|VREF_O        |
-| 50	|VREF_I        |
-| 48	|REF_I         |
-| 47	|REF_O         |
-| 52	|GPIO1         |
-| 53	|GPIO2         |
+The USB interface handles both satellite transmission and receiver configurations. Through this connection, the GNSS receiver can send positioning data, satellite information, and timing messages.
 
 
 Interface
@@ -111,7 +92,7 @@ Protocols
 -	SBF (Septentrio Binary Format)
 -	NMEA
 -	RTCM v3.x (MSM included)
-The official Septentrio mosaic G5 driver can be used
+The official Septentrio mosaic-G5 driver can be used
 Electrical
 Input voltage 3.3V +/- 5%
 Power consumption 0.4-0.6 W typ, 0.9W max
