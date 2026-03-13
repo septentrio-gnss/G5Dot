@@ -37,8 +37,6 @@ IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
-VaultGUID=
-ReleaseVaultName=
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=80F2BFE4-E61B-40B6-8462-D0CD2B6E16DC&ItemGUID=94A049F7-C23C-4CC8-9DC5-28D484FB1B1E&RevisionGUID=71632AD7-41D3-4CCE-9937-4AFA591B6C20&"MainFilename=ANavS M2 template.PrjPcb"
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
@@ -47,8 +45,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Mosaic-G5_P6H
-ItemGUID=
+CurrentVariant=Mosaic-G5_P3H
 
 [Preferences]
 PrefsVaultGUID=
@@ -75,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VZPGLUJP
 
 [Document2]
-DocumentPath=M.2_Key_A+E_Card.SchDoc
+DocumentPath=M.2_Key_A+E.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -261,13 +258,30 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DHMZAYZS
 
+[Document13]
+DocumentPath=MosaicM2G5.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=ED09F0B1-3598-4031-A282-BE4D53262468
 Description=Mosaic-G5_P1
 AllowFabrication=0
 ParameterCount=0
 VariationCount=2
-Variation1=Designator=U1|UniqueId=\NAHUJIKC|Kind=2|AlternatePart=mosaic-G5-P1|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=ANavS GmbH|AltLibLink_SymbolReference=CMP-001-0014-3|AltLibLink_DesignItemID=CMP-001-0014-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ANavS GmbH|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=80F2BFE4-E61B-40B6-8462-D0CD2B6E16DC|AltLibLink_ItemGUID=87f1973e-b68e-4fbd-b975-a826c9e20d99|AltLibLink_RevisionGUID=b8e4bcbe-f877-4444-b2c6-11c194f97574|AltLibLink_Footprint=mosaic-G5-GENERIC-Footprint|AltLibLink_IsSameFootprint=True
+Variation1=Designator=U1|UniqueId=\NAHUJIKC|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=ANavS GmbH|AltLibLink_SymbolReference=CMP-001-0014-3|AltLibLink_DesignItemID=CMP-001-0014-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ANavS GmbH|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=80F2BFE4-E61B-40B6-8462-D0CD2B6E16DC|AltLibLink_ItemGUID=87f1973e-b68e-4fbd-b975-a826c9e20d99|AltLibLink_RevisionGUID=b8e4bcbe-f877-4444-b2c6-11c194f97574|AltLibLink_Footprint=mosaic-G5-GENERIC-Footprint|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue=mosaic-G5-P1
 ParamDesignator1=U1
 ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
@@ -321,7 +335,7 @@ Description=Mosaic-G5_P3
 AllowFabrication=0
 ParameterCount=0
 VariationCount=2
-Variation1=Designator=U1|UniqueId=\NAHUJIKC|Kind=2|AlternatePart=mosaic-G5-P3|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=ANavS GmbH|AltLibLink_SymbolReference=CMP-00025-00006-2|AltLibLink_DesignItemID=CMP-00025-00006-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ANavS GmbH|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=80F2BFE4-E61B-40B6-8462-D0CD2B6E16DC|AltLibLink_ItemGUID=0dfa4429-f6d3-4326-8068-c453b9f6c11d|AltLibLink_RevisionGUID=a984f160-ad57-4157-a6ea-9ce35ebb8c7a|AltLibLink_Footprint=mosaic-G5-GENERIC-Footprint|AltLibLink_IsSameFootprint=True
+Variation1=Designator=U1|UniqueId=\NAHUJIKC|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=ANavS GmbH|AltLibLink_SymbolReference=CMP-00025-00006-2|AltLibLink_DesignItemID=CMP-00025-00006-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ANavS GmbH|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=80F2BFE4-E61B-40B6-8462-D0CD2B6E16DC|AltLibLink_ItemGUID=0dfa4429-f6d3-4326-8068-c453b9f6c11d|AltLibLink_RevisionGUID=a984f160-ad57-4157-a6ea-9ce35ebb8c7a|AltLibLink_Footprint=mosaic-G5-GENERIC-Footprint|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue=mosaic-G5-P3
 ParamDesignator1=U1
 ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
@@ -375,7 +389,7 @@ Description=Mosaic-G5_P3H
 AllowFabrication=0
 ParameterCount=0
 VariationCount=1
-Variation1=Designator=U1|UniqueId=\NAHUJIKC|Kind=2|AlternatePart=mosaic-G5-P3H|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=ANavS GmbH|AltLibLink_SymbolReference=CMP-00025-00007-2|AltLibLink_DesignItemID=CMP-00025-00007-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ANavS GmbH|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=80F2BFE4-E61B-40B6-8462-D0CD2B6E16DC|AltLibLink_ItemGUID=ec81d27d-19d6-4a14-b8cf-18128ebf6960|AltLibLink_RevisionGUID=e7a6f359-44e4-48b9-9e82-5f155cecf0f0|AltLibLink_Footprint=mosaic-G5-GENERIC-Footprint|AltLibLink_IsSameFootprint=True
+Variation1=Designator=U1|UniqueId=\NAHUJIKC|Kind=2|AlternatePart=|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=ANavS GmbH|AltLibLink_SymbolReference=CMP-00025-00007-2|AltLibLink_DesignItemID=CMP-00025-00007-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ANavS GmbH|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=80F2BFE4-E61B-40B6-8462-D0CD2B6E16DC|AltLibLink_ItemGUID=ec81d27d-19d6-4a14-b8cf-18128ebf6960|AltLibLink_RevisionGUID=e7a6f359-44e4-48b9-9e82-5f155cecf0f0|AltLibLink_Footprint=mosaic-G5-GENERIC-Footprint|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue=mosaic-G5-P3H
 ParamDesignator1=U1
 ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
@@ -391,59 +405,6 @@ ParamDesignator6=U1
 ParamVariation7=ParameterName=Ibis Model|VariantValue=
 ParamDesignator7=U1
 ParamVariation8=ParameterName=Library Reference|VariantValue=CMP-00025-00007-2
-ParamDesignator8=U1
-ParamVariation9=ParameterName=Manufacturer|VariantValue=septentrio
-ParamDesignator9=U1
-ParamVariation10=ParameterName=Max Operating Temperature|VariantValue=+85°C
-ParamDesignator10=U1
-ParamVariation11=ParameterName=Max Power Consumption|VariantValue=785mW
-ParamDesignator11=U1
-ParamVariation12=ParameterName=Max RF input power at ANT_1|VariantValue=20dBm
-ParamDesignator12=U1
-ParamVariation13=ParameterName=Max RF input power at ANT_2|VariantValue=10dBm
-ParamDesignator13=U1
-ParamVariation14=ParameterName=Max Storage Temperature|VariantValue=+85°C
-ParamDesignator14=U1
-ParamVariation15=ParameterName=Min Operating Temperature|VariantValue=-40°C
-ParamDesignator15=U1
-ParamVariation16=ParameterName=Min Storage Temperature|VariantValue=-55°C
-ParamDesignator16=U1
-ParamVariation17=ParameterName=PCB3D|VariantValue=
-ParamDesignator17=U1
-ParamVariation18=ParameterName=Peak Current Consumption|VariantValue=500mA
-ParamDesignator18=U1
-ParamVariation19=ParameterName=Pin Info|VariantValue=
-ParamDesignator19=U1
-ParamVariation20=ParameterName=Signal Integrity|VariantValue=
-ParamDesignator20=U1
-ParamVariation21=ParameterName=Simulation|VariantValue=
-ParamDesignator21=U1
-ParamVariation22=ParameterName=Weight|VariantValue=2.2g
-ParamDesignator22=U1
-ParamVariationCount=22
-
-[ProjectVariant4]
-UniqueId=B8612424-60E0-49B0-B95C-3A285EF0C88F
-Description=Mosaic-G5_P6H
-AllowFabrication=0
-ParameterCount=0
-VariationCount=1
-Variation1=Designator=U1|UniqueId=\NAHUJIKC|Kind=2|AlternatePart=mosaic-G5-P6H|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=ANavS GmbH|AltLibLink_SymbolReference=CMP-00025-00008-2|AltLibLink_DesignItemID=CMP-00025-00008-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ANavS GmbH|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=80F2BFE4-E61B-40B6-8462-D0CD2B6E16DC|AltLibLink_ItemGUID=6019c3f0-02cc-4df8-8461-c8ad02d3a03b|AltLibLink_RevisionGUID=092c6570-17d9-4d07-9330-52e14af341f8|AltLibLink_Footprint=mosaic-G5-GENERIC-Footprint|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue=mosaic-G5-P6H
-ParamDesignator1=U1
-ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator2=U1
-ParamVariation3=ParameterName=Description|VariantValue=mosaic-G5 GNSS Module - Low-power multi-band multi-constellation GNSS receiver.
-ParamDesignator3=U1
-ParamVariation4=ParameterName=Feature 1|VariantValue=dual antenna
-ParamDesignator4=U1
-ParamVariation5=ParameterName=Feature 2|VariantValue=10 MHz in
-ParamDesignator5=U1
-ParamVariation6=ParameterName=Footprint|VariantValue=mosaic-G5-GENERIC-Footprint
-ParamDesignator6=U1
-ParamVariation7=ParameterName=Ibis Model|VariantValue=
-ParamDesignator7=U1
-ParamVariation8=ParameterName=Library Reference|VariantValue=CMP-00025-00008-2
 ParamDesignator8=U1
 ParamVariation9=ParameterName=Manufacturer|VariantValue=septentrio
 ParamDesignator9=U1
@@ -861,7 +822,7 @@ Value=01
 
 [Parameter2]
 Name=Assembly_Drawing_Title
-Value=M2 Mosaic-G5 SMART PCBA Assembly
+Value=MosaicM2G5 PCBA Assembly
 
 [Parameter3]
 Name=CheckedBy
@@ -897,7 +858,7 @@ Value=01
 
 [Parameter11]
 Name=Fabrication_Drawing_Title
-Value=M2 Mosaic-G5 SMART PCB Fabrication
+Value=MosaicM2G5 PCB Fabrication
 
 [Parameter12]
 Name=LICENSE_NOTICE
@@ -909,7 +870,7 @@ Value=M.2 2230-D6*-E-A
 
 [Parameter14]
 Name=PROJECT
-Value=M2_Mosaic-G5_Smart
+Value=MosaicM2G5
 
 [Parameter15]
 Name=SCH_SCALE
@@ -1131,21 +1092,11 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=Mixed Sim Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -1157,21 +1108,11 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -1272,7 +1213,7 @@ OutputVariantName9=
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.67|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4|PaperIndex=9
 Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\Users\Public\Documents\Altium\M.2_mosaic-H\M.2_mosaic-H.SchDoc
+Configuration9_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\Users\laeti\Downloads\M.2_Key_A+E.SchDoc
 OutputType10=SimView Print
 OutputName10=SimView Prints
 OutputDocumentPath10=
@@ -1319,11 +1260,6 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=Wire Bonding Table
-OutputName4=Wire Bonding Table Report
-OutputDocumentPath4=
-OutputVariantName4=[No Variations]
-OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -1463,6 +1399,10 @@ OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration9_Name1=ForceUpdateSettings
+Configuration9_Item1=False
+Configuration9_Name2=OutputConfigurationParameter1
+Configuration9_Item2=Record=ProjectHistoryExportView|PeriodFrom=Latest|PeriodTo=Now|DocumentPath=[Project]
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1736,27 +1676,6 @@ Type135=1
 Type136=1
 Type137=1
 Type138=1
-Type139=1
-Type140=1
-Type141=1
-Type142=1
-Type143=1
-Type144=1
-Type145=1
-Type146=1
-Type147=1
-Type148=1
-Type149=1
-Type150=1
-Type151=1
-Type152=1
-Type153=1
-Type154=1
-Type155=1
-Type156=1
-Type157=1
-Type158=1
-Type159=1
 
 [Difference Levels]
 Type1=1
@@ -1833,19 +1752,6 @@ Type71=1
 Type72=1
 Type73=1
 Type74=1
-Type75=1
-Type76=1
-Type77=1
-Type78=1
-Type79=1
-Type80=1
-Type81=1
-Type82=1
-Type83=1
-Type84=1
-Type85=1
-Type86=1
-Type87=1
 
 [Electrical Rules Check]
 Type1=1
@@ -2001,16 +1907,6 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
-Type154=0
-Type155=0
-Type156=0
-Type157=0
-Type158=0
-Type159=0
-Type160=0
-Type161=0
-Type162=1
-Type163=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
