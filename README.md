@@ -103,11 +103,11 @@ The M.2 Key E+A connector can fit into a Key E and Key A slots. Plus a Key A and
 ## User documentation
 
 ### Interfaces
-<img src="/pictures/M2G5 Interface.png" width="50%">
+<img src="/pictures/M2G5 Interface.png" width="40%">
 
 ### Insert in NVIDIA Orin development kit
 
-<img src="/pictures/Jetson Orin Nano Dev Kit.png" src="/pictures/Down view NVIDIA.png" width="40%"><img src="/pictures/Down view NVIDIA.png" width="40%">
+<img src="/pictures/Jetson Orin Nano Dev Kit.png" src="/pictures/Down view NVIDIA.png" width="40%">
 
 <img src="/pictures/Jetson & mosaic.png" width="80%">
 
