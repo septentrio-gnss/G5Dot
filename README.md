@@ -30,7 +30,7 @@ The mosaic-G5 comes with different versions. The key features and differences ar
 | Features     | [mosaic-G5 P1](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-g5-p1) | [mosaic-G5 P3](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3) | [mosaic-G5 P3H](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3H) |
 |--------------|--------------|--------------|---------------|
 | Functionality|High-precision positioning   |High-precision positioning |Positioning + Heading|
-| Use case     |Robotics (e.g robotic mowers), GIS devices |UAV, Commercial mowers, Industrial Robotics, Survey, Marine navigation|
+| Use case     |Robotics (e.g robotic mowers), GIS devices |UAV, Commercial mowers, Industrial Robotics, Survey, Marine navigation             
 | GNSS bands   | Triple-band  | Quad-band    | Quad-band     |
 | RTK support  | Yes          | Yes          | Yes           |
 | Dual antenna |              |              | Yes           |
