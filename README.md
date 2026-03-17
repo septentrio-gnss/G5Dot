@@ -53,7 +53,7 @@ For more information about Septentrio products go to [**https://www.septentrio.c
 ## Who is ANavS GmbH
 ANavS GmbH is a German company that evelops high precision navigation and positioning systems. Their technomogy combines GNSS? inertial sensor(IMU), and sensor-fusion algorithms to provide accurate lcation and orientation.
 
-Click [here](https://anavs.com/products/embedded-modules/gnss-card-g5/) to see this board produced by ANavS
+Click [here](https://anavs.com/products/embedded-modules/gnss-card-g5/) to see the board
 
 
 ### Why open source or is it open sourse
@@ -88,37 +88,27 @@ You can order the mosaics from Digi-key, or you can contact Septentrio for direc
 |M.2_mosaicG5|     - | [100040](https://www.digikey.com/en/products/detail/anavs-gmbh/100040/28164182) |
 
 
-### M.2 form factor
-The M.2 Key E+A connector can fit into a Key E and Key A slots. Plus a Key A and Key E can also fit in both Key A and Key E slots.   
-
-<img src="/pictures/M.2 interface.png" width="60%" url="https://www.delock.com/infothek/M.2_2022/images/keys-a-e_engl.jpg">
-
-#### Why M.2?
+#### M.2 form factor
+##### Why M.2?
 M.2 form factor is a standard interface used to provides a compact and flexible way to add extra fanctionality without redesigning the hardware. It is usally used in Laptops for Wi-Fi or SSDs, industral PCs and embedded boards such as NVIDIA Jetson. 
 
 NVIDIA Jetson boards are small powerful AI computers designed for applications like robotics, drones and smart sytems. They provide powerful GPU performance in a compact, energy-efficient system, making them ideal for real-time AI and embedded development.
 
 Using the M.2 form factor for the mosaic-G5 allows developers already working in the NVIDIA ecosystem to eaisly add the GNSS receiver without redesigning their hardware.
 
+The M.2 Key E+A connector can fit into a Key E and Key A slots. Plus a Key A and Key E can also fit in both Key A and Key E slots.   
+
+<img src="/pictures/M.2 interface.png" width="60%" url="https://www.delock.com/infothek/M.2_2022/images/keys-a-e_engl.jpg">
+
 ## User documentation
-### How to get GNSS Data
-* Insert the M.2_mosaicG5 to the M.2 slot.
-* Connect the GNSS antenna to the antenna connector
-* Configure the receiver by downloading Septentrio Rx Tools, you can get this from [here](https://www.septentrio.com/en/products/gps-gnss-receiver-software/rxtools#resources)
-* Follow the installation instructions
-    * This tool allows the user to monitor satellite signals, configure receiver settings, log GNSS data and verify positioning status
-    * You can also download *RxTools User Manual* to get you started
-
-
-
 
 ### Interfaces
-<img src="/pictures/M2G5 Interface.png" width="80%">
+<img src="/pictures/M2G5 Interface.png" width="50%">
 
 ### Insert in NVIDIA Orin development kit
 
-<img src="/pictures/Jetson Orin Nano Dev Kit.png" width="80%">
-<img src="/pictures/Down view NVIDIA.png" width="80%">
+<img src="/pictures/Jetson Orin Nano Dev Kit.png" width="50%">
+<img src="/pictures/Down view NVIDIA.png" width="50%">
 
 <img src="/pictures/Jetson & mosaic.png" width="80%">
 
@@ -136,7 +126,16 @@ The USB interface handles both satellite transmission and receiver configuration
 ### Antenna
 
 <img src="/pictures/antenna pin.png" width="50%">
-<img src="/pictures/antenna.png" width="40%">
+<img src="/pictures/antenna.png" width="20%">
+
+### How to get GNSS Data
+* Insert the M.2_mosaicG5 to the M.2 slot.
+* Connect the GNSS antenna to the antenna connector
+* Configure the receiver by downloading Septentrio Rx Tools, you can get this from [here](https://www.septentrio.com/en/products/gps-gnss-receiver-software/rxtools#resources)
+* Follow the installation instructions
+    * This tool allows the user to monitor satellite signals, configure receiver settings, log GNSS data and verify positioning status
+    * You can also download *RxTools User Manual* to get you started
+
 
 Interface
 -	USB (device 2.0 HS up to 480Mbps)
