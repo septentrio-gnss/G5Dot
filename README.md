@@ -2,6 +2,7 @@
 
 
 | Author|  [laekaz](https://github.com/laekaz)|
+|--------------|--------------|
 | Maintainer | [(Septentrio gnss github user)](githubuser@septentrio.com)|
 | License|  Open Source Hardware License (CERN-OHL)|
 
