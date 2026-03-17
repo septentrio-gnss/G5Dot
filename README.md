@@ -1,10 +1,9 @@
 # M.2_mosaicG5
 
-|Author| [laekaz](https://github.com/laekaz)
-
+|Author| [laekaz](https://github.com/laekaz)|
 |Maintainer |[(Septentrio gnss github user)](githubuser@septentrio.com)|
-
 |License| Open Source Hardware License (CERN-OHL)|
+
 ## Table of Content
 
 # Introduction to M.2_mosaicG5
