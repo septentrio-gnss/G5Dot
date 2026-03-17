@@ -50,7 +50,7 @@ Septentrio's technology offers high accuracy and reliability thanks to advanced 
 
 For more information about Septentrio products go to [**https://www.septentrio.com/**](https://web.septentrio.com/GH-SSN-home).
 
-## Who is ANavS GmbH
+### Who is ANavS GmbH
 ANavS GmbH is a German company that evelops high precision navigation and positioning systems. Their technomogy combines GNSS? inertial sensor(IMU), and sensor-fusion algorithms to provide accurate lcation and orientation.
 
 Click [here](https://anavs.com/products/embedded-modules/gnss-card-g5/) to see the board
