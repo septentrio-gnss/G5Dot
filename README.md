@@ -10,7 +10,7 @@
 
 ## Introduction to M.2_mosaicG5
 ## What is the M.2_mosaicG5?
-<img src="/pictures/M.2%20main%20board.png" width="60%">
+<img src="/pictures/M.2 main board - Copy.png" width="60%">
 This is a compact, high precision GNSS (Global Navigation Satellite System) receiver card design for embedded computing platforms, ideal for industrial PCs such as NVIDIA Jetson. Its small size and low power consumption makes it appropriate for applications where space and efficiency are critical. 
 It is based on the mosaic-G5 GNSS receiver with multiple satellite systems able to achieve 1cm precise positioning, allowing it to achieve centimetre-level positioning accuracy (up to about 1 cm). This open-source board was originally designed by ANavS GmbH.
 
