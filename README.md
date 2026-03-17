@@ -6,9 +6,9 @@
 | Maintainer | [(Septentrio gnss github user)](githubuser@septentrio.com)|
 | License|  Open Source Hardware License (CERN-OHL)|
 
-## Table of Content
+# Table of Content
 
-# Introduction to M.2_mosaicG5
+## Introduction to M.2_mosaicG5
 ## What is the M.2_mosaicG5?
 <img src="/pictures/M.2%20main%20board.png" width="60%">
 This is a compact, high precision GNSS (Global Navigation Satellite System) receiver card design for embedded computing platforms, ideal for industrial PCs such as NVIDIA Jetson. Its small size and low power consumption makes it appropriate for applications where space and efficiency are critical. 
