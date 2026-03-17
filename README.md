@@ -96,18 +96,19 @@ NVIDIA Jetson boards are small powerful AI computers designed for applications l
 
 Using the M.2 form factor for the mosaic-G5 allows developers already working in the NVIDIA ecosystem to eaisly add the GNSS receiver without redesigning their hardware.
 
+<img src="/pictures/Jetson Orin Nano Dev Kit.png"  width="30%"><img src="/pictures/Down view NVIDIA.png" width="30%">
+
 The M.2 Key E+A connector can fit into a Key E and Key A slots. Plus a Key A and Key E can also fit in both Key A and Key E slots.   
 
-<img src="/pictures/M.2 interface.png" width="60%" url="https://www.delock.com/infothek/M.2_2022/images/keys-a-e_engl.jpg">
+<img src="/pictures/M.2 interface.png" width="50%" url="https://www.delock.com/infothek/M.2_2022/images/keys-a-e_engl.jpg">
 
 ## User documentation
 
 ### Interfaces
 <img src="/pictures/M2G5 Interface.png" width="40%">
 
-### Insert in NVIDIA Orin development kit
 
-<img src="/pictures/Jetson Orin Nano Dev Kit.png"  width="40%"><img src="/pictures/Down view NVIDIA.png" width="40%">
+### Insert in NVIDIA Orin development kit
 
 <img src="/pictures/Jetson & mosaic.png" width="80%">
 
