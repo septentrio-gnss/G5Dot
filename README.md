@@ -124,19 +124,31 @@ You can insert the board on underneath the NVIDIA board
 #### Pinout for M.2 Key_A+E Connector 
 <img src="/pictures/antenna pin.png" width="40%">
 
-| Pin # |Signal            |
+| Pin # |Signal to the mosaic module|
 |-------|------------------|
 | 3	    |USB D+            |
 | 5	    |USB D-            |
 | 2,4,72,74	|power 3.3V    |
+|  6    |External LED      | 
+|  16   | External LED     | 
 | GND	|GND               |
 
+USB
 The USB interface handles both satellite transmission and receiver configurations. Through this connection, the GNSS receiver can send positioning data, satellite information, and timing messages.
+
+Power
+the board is powered via 3.3V supply lines on multiple pins to ensure stable operation. A clean and stable power source is important for reliable GNSS performance.
+
+LED
+These pins can be used to drive external LEDs, which are helpful for quick visual feedback
 
 ### Antenna
 
 <img src="/pictures/antenna pin.png" width="50%">
 <img src="/pictures/antenna.png" width="20%">
+The board exposes two RP-UMRF (micro RF) antenna connectors for GNSS signal reception. These connectors are designed for 50 Ω antennas and provide the interface for connecting external GNSS antennas to the module.
+
+The connectors typically serve as MAIN (primary) and AUX (secondary) inputs, enabling support for advanced features such as dual-band reception and high-precision positioning (e.g., RTK)
 
 ### How to get GNSS Data
 * Insert the M.2_mosaicG5 to the M.2 slot.
