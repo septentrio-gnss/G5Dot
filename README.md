@@ -71,14 +71,22 @@ This Open Source contains the following files for disigners, producers and integ
 |Files         |description   |
 |--------------|--------------|
 |MosaicM2G5.PrjPcb |Altium Project  |
-|Files         |description   |
+|Cover_Page.SchDoc|Cover page|
+|M.2_Key_A+E.SchDoc|Schematics for M.2 KEY B|
+|Mosaic-G5.SchDoc||
+|M2G5Cover_Page.SchDoc||
+|MosaicM2G5.PrjPcbStructure|PCB structure|
+|||
+|||
+|BOM_MosaicM2G5_REV_01.01_VARIANT_Mosaic-G5_P3H|Bill of Materials|
+|MosaicM2G5 sch        |schematics PDF  |
 
 * Altium Project files
 * Schematics PDF 
 * BOM (Bill of Materials)
 #### Ordering mosaic
 
-You can order the mosaics from Digi-key, or you can contact Septentrio for directly.
+You can order the mosaics from Digi-key, or you can contact Septentrio directly.
 
 | mosaic versions | Septentrio | Digikey part_number|
 |-----------------|------------|--------|
@@ -109,10 +117,12 @@ The M.2 Key E+A connector can fit into a Key E and Key A slots. Plus a Key A and
 
 
 ### Insert in NVIDIA Orin development kit
-
+M.2_mosaicG5 can be easily connected to the NVIDIA Jetson board as shown: 
 <img src="/pictures/Jetson & mosaic.png" width="80%">
+You can insert the board on underneath the NVIDIA board 
 
 #### Pinout for M.2 Key_A+E Connector 
+<img src="/pictures/antenna pin.png" width="40%">
 
 | Pin # |Signal            |
 |-------|------------------|
