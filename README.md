@@ -133,13 +133,16 @@ You can insert the board on underneath the NVIDIA board
 |  16   | External LED     | 
 | GND	|GND               |
 
-USB
+* USB
+
 The USB interface handles both satellite transmission and receiver configurations. Through this connection, the GNSS receiver can send positioning data, satellite information, and timing messages.
 
-Power
-the board is powered via 3.3V supply lines on multiple pins to ensure stable operation. A clean and stable power source is important for reliable GNSS performance.
+* Power
 
-LED
+The board is powered via 3.3V supply lines on multiple pins to ensure stable operation. A clean and stable power source is important for reliable GNSS performance.
+
+* LED
+
 These pins can be used to drive external LEDs, which are helpful for quick visual feedback
 
 ### Antenna
