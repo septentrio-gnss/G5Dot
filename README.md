@@ -122,7 +122,7 @@ M.2_mosaicG5 can be easily connected to the NVIDIA Jetson board as shown:
 You can insert the board on underneath the NVIDIA board 
 
 #### Pinout for M.2 Key_A+E Connector 
-<img src="/pictures/antenna pin.png" width="40%">
+<img src="/pictures/m.2key a+e.png" width="40%">
 
 | Pin # |Signal to the mosaic module|
 |-------|------------------|
