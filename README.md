@@ -138,7 +138,7 @@ You can insert the board on underneath the NVIDIA board
 ### Antenna
 
 <img src="/pictures/antenna pin.png" width="50%">
-<img src="/pictures/antenna.png" width="20%">
+
 The board exposes two RP-UMRF (micro RF) antenna connectors for GNSS signal reception. These connectors are designed for 50 Ω antennas and provide the interface for connecting external GNSS antennas to the module.
 
 The connectors typically serve as MAIN (primary) and AUX (secondary) inputs, enabling support for advanced features such as dual-band reception and high-precision positioning (e.g., RTK)
