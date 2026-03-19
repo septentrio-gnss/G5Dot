@@ -42,7 +42,7 @@ The mosaic-G5 comes with different versions. The key features and differences ar
  You can use other [mosaic modules](https://www.septentrio.com/en/products/gnss-receivers?f%5B0%5D=type%3A604), but you need to pay attention to the functions and pins that could be exposed, then modify the design for your own project. 
 
 ## Who is Septentrio?
-<img src="/pictures/Septentrio_logo.png" width="30%">
+<img src="/pictures/Screenshot 2026-03-13 160257.png" width="30%">
 
 Septentrio is a leading company that designs, manufactures and sells high precision and multi-frequency GPS/GNSS receivers for demanding applications. Septentrio products are used in different industries including automotive, marine, construction, rail, machine control, logistics, precision agriculture, geographic information systems (GIS), Unmanned aerial vehicles (UAVs), survey, mapping and scientific. Septentrio’s receivers constantly deliver high accurate and precise GNSS positioning, scalable to centimetre-level and designed to perform perfectly in challenging environments. 
 
@@ -67,7 +67,7 @@ This project is offered as-is. The main interfaces have been tested, but the des
 Support website: https://www.septentrio.com/en/support
 
 ### Deliverables
-This Open Source contains the following files for disigners, producers and integrators around Septentrio's mosaic modules.
+This Open Source contains the following files for designers, producers and integrators around Septentrio's mosaic modules.
 |Files         |description   |
 |--------------|--------------|
 |MosaicM2G5.PrjPcb |Altium Project  |
@@ -76,14 +76,10 @@ This Open Source contains the following files for disigners, producers and integ
 |Mosaic-G5.SchDoc||
 |M2G5Cover_Page.SchDoc||
 |MosaicM2G5.PrjPcbStructure|PCB structure|
-|||
-|||
 |BOM_MosaicM2G5_REV_01.01_VARIANT_Mosaic-G5_P3H|Bill of Materials|
 |MosaicM2G5 sch        |schematics PDF  |
 
-* Altium Project files
-* Schematics PDF 
-* BOM (Bill of Materials)
+
 #### Ordering mosaic
 
 You can order the mosaics from Digi-key, or you can contact Septentrio directly.
