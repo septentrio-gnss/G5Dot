@@ -28,6 +28,7 @@
   * [Pinout for mosaic-G5 module](#pinout-for-mosaic-g5-module)
   * [Antenna](#antenna)
   * [How to get GNSS Data](#how-to-get-gnss-data)
+* [Interface, Protocols & Electrical Specifications](#interface-protocols--electrical-specifications)  
 
 # Introduction to M.2_mosaicG5
 ## What is the M.2_mosaicG5?
