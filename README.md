@@ -8,7 +8,28 @@
 
 # Table of Contents
 
-## Introduction to M.2_mosaicG5
+* Introduction to M.2_mosaicG5](#introduction-to-m2_mosaicg5)
+  * [What is the M.2_mosaicG5?](#what-is-the-m2_mosaicg5)
+    * [Availability](#availability)
+* [What is a mosaic-G5 module?](#what-is-a-mosaic-g5-module)
+  * [Other mosaic-G5 versions](#other-mosaic-g5-versions)
+* [Who is Septentrio?](#who-is-septentrio)
+* [Who is ANavS GmbH](#who-is-anavs-gmbh)
+* [Why open-source](#why-open-source)
+* [Disclaimer](#disclaimer)
+* [Deliverables](#deliverables)
+  * [Ordering mosaic](#ordering-mosaic)
+* [M.2 form factor](#m2-form-factor)
+  * [Why M.2?](#why-m2)
+* [User documentation](#user-documentation)
+  * [Interfaces](#interfaces)
+  * [Insert in NVIDIA Orin development kit](#insert-in-nvidia-orin-development-kit)
+  * [Pinout for M.2 Key_A+E Connector](#pinout-for-m2-key_ae-connector)
+  * [Pinout for mosaic-G5 module](#pinout-for-mosaic-g5-module)
+  * [Antenna](#antenna)
+  * [How to get GNSS Data](#how-to-get-gnss-data)
+
+# Introduction to M.2_mosaicG5
 ## What is the M.2_mosaicG5?
 <img src="/pictures/M.2 main board - Copy.png" width="60%">
 This is a compact, high precision GNSS (Global Navigation Satellite System) receiver card design for embedded computing platforms, ideal for industrial PCs such as NVIDIA Jetson. Its small size and low power consumption makes it appropriate for applications where space and efficiency are critical. 
@@ -113,7 +134,9 @@ The M.2 Key E+A connector can fit into a Key E and Key A slots. Key A and Key E 
 
 ### Insert in NVIDIA Orin development kit
 M.2_mosaicG5 can be easily connected to the NVIDIA Jetson board as shown: 
+
 <img src="/pictures/Jetson & mosaic.png" width="80%">
+
 You can insert the board on the underside of the NVIDIA Jetson board 
 
 #### Pinout for M.2 Key_A+E Connector 
