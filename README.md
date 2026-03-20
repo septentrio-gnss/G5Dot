@@ -8,7 +8,7 @@
 
 # Table of Contents
 
-* Introduction to M.2_mosaicG5](#introduction-to-m2_mosaicg5)
+* [Introduction to M.2_mosaicG5](#introduction-to-m2_mosaicg5)
   * [What is the M.2_mosaicG5?](#what-is-the-m2_mosaicg5)
     * [Availability](#availability)
 * [What is a mosaic-G5 module?](#what-is-a-mosaic-g5-module)
