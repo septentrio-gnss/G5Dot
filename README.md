@@ -3,29 +3,28 @@
 
 | Author|  [laekaz](https://github.com/laekaz)|
 |--------------|--------------|
-| Maintainer | [(Septentrio gnss github user)](githubuser@septentrio.com)|
+| Maintainer | [(Septentrio GNSS github user)](githubuser@septentrio.com)|
 | License|  Open-Source Hardware License (CERN-OHL)|
 
-# Table of Content
+# Table of Contents
 
 ## Introduction to M.2_mosaicG5
 ## What is the M.2_mosaicG5?
 <img src="/pictures/M.2 main board - Copy.png" width="60%">
 This is a compact, high precision GNSS (Global Navigation Satellite System) receiver card design for embedded computing platforms, ideal for industrial PCs such as NVIDIA Jetson. Its small size and low power consumption makes it appropriate for applications where space and efficiency are critical. 
-It is based on the mosaic-G5 GNSS receiver with multiple satellite systems able to achieve 1 cm precise positioning, allowing it to achieve centimetre-level positioning accuracy (up to about 1 cm). This open-source board was originally designed by ANavS GmbH.
 
-1 cm precise positioning while using multiple satellite systems simultaneously. This open-source board was originally designed by ANavS GmbH.       
+The design is based on the mosaic-G5 GNSS receiver, which supports multiple satellite systems and enables centimetre-level positioning accuracy. This open-source board was originally designed by ANavS GmbH.
 
 #### Can I buy it?
-Yes, you can buy this board from ANavS
+Yes, the board is available for purchase from ANavS
 
 Website: https://anavs.com/products/embedded-modules/gnss-card-g5/
 
 
 ## What is a mosaic-G5 module?
-This is Septentrio’s compact GNSS receiver with high-reliability and exceptional accurate performance. It integrates the latest generation of GNSS technology, delivering highly accurate positions with minimal power consumption. Multi-band, multi-constellation gives the receiver access to every possible signal from all available GNSS satellite constellations including the U.S. GPS, European Galileo, Russian GLONASS, as well as BeiDou and more. 
+The mosaic-G5 is a compact GNSS receiver from Septentrio, engineered for high reliability and precise positioning. It integrates the latest multi-band, multi-constellation GNSS technology, providing accurate positions while minimizing power consumption. The receiver can access signals from all major satellite constellations, including GPS, Galileo, GLONASS, and BeiDou.
 
-The mosaic-G5 comes with different versions. The key features and differences are listed in the table below:
+Different versions of the mosaic-G5 are available to suit various applications, as summarized below:
 
 | Features     | [mosaic-G5 P1](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-g5-p1) | [mosaic-G5 P3](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3) | [mosaic-G5 P3H](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3H) |
 |--------------|--------------|--------------|---------------|
@@ -38,7 +37,7 @@ The mosaic-G5 comes with different versions. The key features and differences ar
 
 
 
-#### Other mosaic versions
+#### Other mosaic-G5 versions
  You can use other [mosaic modules](https://www.septentrio.com/en/products/gnss-receivers?f%5B0%5D=type%3A604), but you need to pay attention to the functions and pins that could be exposed, then modify the design for your own project. 
 
 ## Who is Septentrio?
@@ -51,13 +50,13 @@ Septentrio's technology offers high accuracy and reliability thanks to advanced 
 For more information about Septentrio products go to [**https://www.septentrio.com/**](https://web.septentrio.com/GH-SSN-home).
 
 ### Who is ANavS GmbH
-ANavS GmbH is a German company that develops high precision navigation and positioning systems. Their technology combines GNSS, inertial sensor(IMUs), and sensor fusion algorithms to provide accurate location and orientation.
+ANavS GmbH is a German company that develops high precision navigation and positioning systems. Their technology combines GNSS, inertial sensors (IMUs), and sensor fusion algorithms to provide accurate location and orientation.
 
-Click [here](https://anavs.com/products/embedded-modules/gnss-card-g5/) to see the board
+For more details, visit the product page [here](https://anavs.com/products/embedded-modules/gnss-card-g5/) 
 
 
-### Why open-source and is it open-sourse
-This board is open-source to encourage collaboration, customization, and innovation. It makes it easy for developers, hobbyists, and integrators to combine high-precision GNSS positioning with platforms like NVIDIA Jetson, experiment, create spin-off projects, and adapt it for a wide range of robotics, autonomous systems, or industrial applications.
+### Why open-source and is it open-source
+This board is open-source to encourage collaboration, customization, and innovation. It makes it easy for developers, hobbyists, and integrators to combine high-precision GNSS positioning with platforms like NVIDIA, experiment, create spin-off projects, and adapt it for a wide range of robotics, autonomous systems, or industrial applications.
 
 Open-source promotes shared development, letting users build on existing work and push the technology further. It also means you have access to editable design files and are free to modify, build or sell your own version.
 
@@ -67,14 +66,14 @@ This project is offered as-is. The main interfaces have been tested, but the des
 Support website: https://www.septentrio.com/en/support
 
 ### Deliverables
-This Open-Source project contains the following files for designers, producers and integrators around Septentrio's mosaic modules.
-|Files         |description   |
+This open-source project contains the following files for designers, producers and integrators around Septentrio's mosaic modules.
+|Files         |Description   |
 |--------------|--------------|
 |MosaicM2G5.PrjPcb |Altium Project  |
 |Cover_Page.SchDoc|Cover page|
-|M.2_Key_A+E.SchDoc|Schematics for M.2 KEY B|
-|Mosaic-G5.SchDoc||
-|M2G5Cover_Page.SchDoc||
+|M.2_Key_A+E.SchDoc|Schematics for M.2 KEY A+E|
+|Mosaic-G5.SchDoc|Schematics for mosaic-G5 P3 module|
+|M2G5Cover_Page.SchDoc|Intro and variants|
 |MosaicM2G5.PrjPcbStructure|PCB structure|
 |BOM_MosaicM2G5_REV_01.01_VARIANT_Mosaic-G5_P3H|Bill of Materials|
 |MosaicM2G5 sch        |schematics PDF  |
@@ -82,9 +81,9 @@ This Open-Source project contains the following files for designers, producers a
 
 #### Ordering mosaic
 
-You can order the mosaics from Digi-key, or you can contact Septentrio directly.
+You can order the mosaics from Digi-Key, or you can contact Septentrio directly.
 
-| mosaic versions | Septentrio | Digikey part_number|
+| mosaic-G5 versions | Septentrio | Digi-Key part_number|
 |-----------------|------------|--------|
 | mosaic-G5 P1 |[Septentrio_G5-P1](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-g5-p1) | - |
 | mosaic-G5 P3 | [Septentrio_G5-P3](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3) | [410501](https://www.digikey.com/en/products/detail/septentrio-inc/410501/28527327) |
@@ -92,9 +91,9 @@ You can order the mosaics from Digi-key, or you can contact Septentrio directly.
 |M.2_mosaicG5|     - | [100040](https://www.digikey.com/en/products/detail/anavs-gmbh/100040/28164182) |
 
 
-#### M.2 form factor
+### M.2 form factor
 ##### Why M.2?
-M.2 form factor is a standard interface used to provides a compact and flexible way to add extra functionality without redesigning the hardware. It is usually used in Laptops for Wi-Fi or SSDs, industrial PCs and embedded boards such as NVIDIA Jetson. 
+M.2 form factor is a standard interface used to provide a compact and flexible way to add extra functionality without redesigning the hardware. It is usually used in Laptops for Wi-Fi or SSDs, industrial PCs and embedded boards such as NVIDIA Jetson. 
 
 NVIDIA Jetson boards are small powerful AI computers designed for applications like robotics, drones and smart systems. They provide powerful GPU performance in a compact, energy-efficient system, making them ideal for real-time AI and embedded development.
 
@@ -102,7 +101,7 @@ Using the M.2 form factor for the mosaic-G5 allows developers already working in
 
 <img src="/pictures/Jetson Orin Nano Dev Kit.png"  width="35%"><img src="/pictures/Down view NVIDIA.png" width="35%">
 
-The M.2 Key E+A connector can fit into a Key E and Key A slots. Plus a Key A and Key E can also fit in both Key A and Key E slots.   
+The M.2 Key E+A connector can fit into a Key E and Key A slots. Key A and Key E modules are mechanically compatible with both Key A and Key E slots.  
 
 <img src="/pictures/M.2 interface.png" width="50%" url="https://www.delock.com/infothek/M.2_2022/images/keys-a-e_engl.jpg">
 
@@ -115,7 +114,7 @@ The M.2 Key E+A connector can fit into a Key E and Key A slots. Plus a Key A and
 ### Insert in NVIDIA Orin development kit
 M.2_mosaicG5 can be easily connected to the NVIDIA Jetson board as shown: 
 <img src="/pictures/Jetson & mosaic.png" width="80%">
-You can insert the board on underneath the NVIDIA board 
+You can insert the board on the underside of the NVIDIA Jetson board 
 
 #### Pinout for M.2 Key_A+E Connector 
 <img src="/pictures/m.2key a+e.png" width="40%">
@@ -124,16 +123,32 @@ You can insert the board on underneath the NVIDIA board
 |-------|------------------|
 | 3	    |USB D+            |
 | 5	    |USB D-            |
-| 2,4,72,74	|power 3.3V    |
+| 2,4,72,74	|power 3.3 V    |
 |  6    |External LED      | 
 |  16   | External LED     | 
 | GND	|GND               |
 
 * USB: the USB interface handles both satellite transmission and receiver configurations. Through this connection, the GNSS receiver can send positioning data, satellite information, and timing messages.
 
-* Power: the board is powered via 3.3V supply lines on multiple pins to ensure stable operation. A clean and stable power source is important for reliable GNSS performance.
+* Power: the board is powered via 3.3 V supply lines on multiple pins to ensure stable operation. A clean and stable power source is important for reliable GNSS performance.
 
-* LED: these pins can be used to drive external LEDs, which are helpful for quick visFual feedback
+* LED: these pins can be used to drive external LEDs, which are helpful for quick visual feedback
+
+#### Pinout for mosaic-G5 module
+
+| Pin # |mosaic module signals|
+|-------|------------------|
+|2|Antenna |
+|5|Antenna |
+| 12	|USB D+            |
+| 13    |USB D-            |
+|14|VBUS|
+|42| Pulse Per Second|
+| 44, 45|power 3.3 V    |
+|  52    |External LED     | 
+|  53  | External LED     | 
+|54|Antenna power 3.3 V|
+| GND	|GND               |
 
 ### Antenna
 
@@ -144,7 +159,7 @@ The board exposes two RP-UMRF (micro RF) antenna connectors for GNSS signal rece
 The connectors typically serve as MAIN (primary) and AUX (secondary) inputs, enabling support for advanced features such as dual-band reception and high-precision positioning (e.g., RTK)
 
 ### How to get GNSS Data
-* Insert the M.2_mosaicG5 to the M.2 slot.
+* Insert the M.2_mosaicG5 into the M.2 slot.
 * Connect the GNSS antenna to the antenna connector
 * Configure the receiver by downloading Septentrio Rx Tools, you can get this from [here](https://www.septentrio.com/en/products/gps-gnss-receiver-software/rxtools#resources)
 * Follow the installation instructions
@@ -154,7 +169,7 @@ The connectors typically serve as MAIN (primary) and AUX (secondary) inputs, ena
 
 
 Interface
-* USB (device 2.0 HS up to 480Mbps)
+* USB (device 2.0 HS up to 480 Mbps)
 * Configure PPS via the u.FL connector
 Protocols
 * SBF (Septentrio Binary Format)
@@ -163,8 +178,8 @@ Protocols
 
 The official Septentrio mosaic-G5 driver can be used
 Electrical
-* Input voltage: 3.3V +/- 5%
+* Input voltage: 3.3 V +/- 5%
 * Power consumption:
  * Typical: 0.4-0.6 W 
- * Max:0.9W max
-* Antenna bias voltage: 3.3V
+ * Max: 0.9 W 
+* Antenna bias voltage: 3.3 V
