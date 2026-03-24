@@ -45,7 +45,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Mosaic-G5_P3H
+CurrentVariant=Mosaic-G5 P3H
 
 [Preferences]
 PrefsVaultGUID=
@@ -277,7 +277,7 @@ DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueId=ED09F0B1-3598-4031-A282-BE4D53262468
-Description=Mosaic-G5_P1
+Description=Mosaic-G5 P1
 AllowFabrication=0
 ParameterCount=0
 VariationCount=2
@@ -331,7 +331,7 @@ ParamVariationCount=22
 
 [ProjectVariant2]
 UniqueId=D7E8548D-D393-4030-8D67-DD73D006799D
-Description=Mosaic-G5_P3
+Description=Mosaic-G5 P3
 AllowFabrication=0
 ParameterCount=0
 VariationCount=2
@@ -385,7 +385,7 @@ ParamVariationCount=22
 
 [ProjectVariant3]
 UniqueId=2F7C952D-0797-456D-AA83-80270B9711F6
-Description=Mosaic-G5_P3H
+Description=Mosaic-G5 P3H
 AllowFabrication=0
 ParameterCount=0
 VariationCount=1
