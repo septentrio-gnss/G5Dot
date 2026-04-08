@@ -101,7 +101,7 @@ This open-source project contains the following files for designers, producers a
 |MosaicM2G5 sch        |schematics PDF  |
 
 
-#### Ordering mosaic
+#### Ordering mosaic module
 
 You can order the mosaics from Digi-Key, or you can contact Septentrio directly.
 
