@@ -117,17 +117,16 @@ You can order the mosaics from Digi-Key, or you can contact Septentrio directly.
 ## Why M.2?
 M.2 form factor is a standard interface used to provide a compact and flexible way to add extra functionality without redesigning the hardware. It is usually used in Laptops for Wi-Fi or SSDs, industrial PCs and embedded boards such as NVIDIA Jetson. 
 
-NVIDIA Jetson boards are small powerful AI computers designed for applications like robotics, drones and smart systems. They provide powerful GPU performance in a compact, energy-efficient system, making them ideal for real-time AI and embedded development.
-
-Using the M.2 form factor for the mosaic-G5 allows developers already working in the NVIDIA ecosystem to easily add the GNSS receiver without redesigning their hardware.
-
-<img src="/pictures/Jetson Orin Nano Dev Kit.png"  width="35%"><img src="/pictures/Down view NVIDIA.png" width="35%">
-
 The M.2 Key E+A connector can fit into a Key E and Key A slots. Key A and Key E modules are mechanically compatible with both Key A and Key E slots.  
 
 <img src="/pictures/M.2 interface.png" width="50%" url="https://www.delock.com/infothek/M.2_2022/images/keys-a-e_engl.jpg">
 
 ## Why for NVIDIA?
+NVIDIA Jetson boards are small powerful AI computers designed for applications like robotics, drones and smart systems. They provide powerful GPU performance in a compact, energy-efficient system, making them ideal for real-time AI and embedded development.
+
+Using the M.2 form factor for the mosaic-G5 allows developers already working in the NVIDIA ecosystem to easily add the GNSS receiver without redesigning their hardware.
+
+<img src="/pictures/Jetson Orin Nano Dev Kit.png"  width="35%"><img src="/pictures/Down view NVIDIA.png" width="35%">
 
 # User documentation
 
