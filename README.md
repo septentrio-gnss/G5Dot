@@ -41,7 +41,7 @@ This is a compact, high precision GNSS (Global Navigation Satellite System) rece
 
 The design is based on the mosaic-G5 GNSS receiver, which supports multiple satellite systems and enables centimetre-level positioning accuracy. This open-source board was originally designed by ANavS GmbH.
 ## Who is Septentrio?
-<img src="/pictures/Screenshot 2026-03-13 160257.png" width="30%">
+<img src="/pictures/Septentrio_logo.png" width="30%">
 
 Septentrio is a leading company that designs, manufactures and sells high precision and multi-frequency GPS/GNSS receivers for demanding applications. Septentrio products are used in different industries including automotive, marine, construction, rail, machine control, logistics, precision agriculture, geographic information systems (GIS), Unmanned aerial vehicles (UAVs), survey, mapping and scientific. Septentrio’s receivers constantly deliver highly accurate and precise GNSS positioning, scalable to centimetre-level and designed to perform perfectly in challenging environments. 
 
