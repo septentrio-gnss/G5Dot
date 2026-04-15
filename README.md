@@ -13,22 +13,17 @@
   * [Who is Septentrio?](#who-is-septentrio)
   * [Where can I buy it?](#where-can-i-buy-it)
     * [Who is ANavS GmbH?](#who-is-anavs-gmbh)
-
 * [Technology](#technology)
   * [What is a mosaic-G5 module?](#what-is-a-mosaic-g5-module)
   * [Other mosaic-G5 versions](#other-mosaic-g5-versions)
-
 * [Why Open Source](#why-open-source)
 * [Disclaimer](#disclaimer)
-
 * [How to Produce](#how-to-produce)
   * [Deliverables](#deliverables)
   * [Ordering the mosaic-G5 Module](#ordering-mosaic-g5-module)
-
 * [M.2 Form Factor](#m2-form-factor)
   * [Why M.2?](#why-m2)
   * [Why for NVIDIA?](#why-for-nvidia)
-
 * [User Documentation](#user-documentation)
   * [Interfaces](#interfaces)
   * [Insert in NVIDIA Orin Development Kit](#insert-in-nvidia-orin-development-kit)
@@ -55,7 +50,7 @@ Septentrio's technology offers high accuracy and reliability thanks to advanced 
 For more information about Septentrio products go to [**https://www.septentrio.com/**](https://web.septentrio.com/GH-SSN-home).
 
 ## Where can i buy it?
-Yes, the board is available for purchase from ANavS
+The board is available for purchase from ANavS
 
 Website: https://anavs.com/products/embedded-modules/gnss-card-g5/
 
