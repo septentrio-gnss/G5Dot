@@ -100,7 +100,7 @@ This open-source project contains the following files for designers, producers a
 |G5DotCover_Page.SchDoc                   |Introduction and variants                |
 |G5Dot.PrjPcbStructure                    |PCB structure                     |
 |BOM_G5Dot_REV_01.01_VARIANT_Mosaic-G5_P3H|Bill of Materials                 |
-|G5Dot sch                                |Schematics PDF                    |
+|G5Dot.pdf                                |Schematics PDF                    |
 
 ## Ordering mosaic-G5 module
 

@@ -275,6 +275,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document14]
+DocumentPath=G5Dot.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=ED09F0B1-3598-4031-A282-BE4D53262468
 Description=Mosaic-G5 P1
@@ -817,64 +834,64 @@ DocumentPath=Project Outputs for M2_Mosaic-G5_Smart\Assembly\ODB\odb\steps\pcb\l
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ASM_REVISION
-Value=01
+Name=SCH_SCALE
+Value=n.a.
 
 [Parameter2]
-Name=Assembly_Drawing_Title
-Value=MosaicM2G5 PCBA Assembly
+Name=PROJECT
+Value=G5Dot
 
 [Parameter3]
-Name=CheckedBy
-Value=V. Tratter
-
-[Parameter4]
-Name=CHK_APP_DATE
-Value=25.04.2025
-
-[Parameter5]
-Name=COPYRIGHT
-Value=© ANavS 2025
-
-[Parameter6]
-Name=DrawnBy
-Value=E. Daporta
-
-[Parameter7]
-Name=DSN_APP_DATE
-Value=23.04.2025
-
-[Parameter8]
-Name=ENG_APP_DATE
-Value=17.04.2025
-
-[Parameter9]
-Name=Engineer
-Value=E. Daporta
-
-[Parameter10]
-Name=FAB_REVISION
-Value=01
-
-[Parameter11]
-Name=Fabrication_Drawing_Title
-Value=MosaicM2G5 PCB Fabrication
-
-[Parameter12]
-Name=LICENSE_NOTICE
-Value=Licensed under CERN-OHL-P v2
-
-[Parameter13]
 Name=MODULE_NOMENCLATURE
 Value=M.2 2230-D6*-E-A
 
+[Parameter4]
+Name=LICENSE_NOTICE
+Value=Licensed under CERN-OHL-P v2
+
+[Parameter5]
+Name=FAB_REVISION
+Value=01
+
+[Parameter6]
+Name=Fabrication_Drawing_Title
+Value=MosaicM2G5 PCB Fabrication
+
+[Parameter7]
+Name=ENG_APP_DATE
+Value=17.04.2025
+
+[Parameter8]
+Name=Engineer
+Value=E. Daporta
+
+[Parameter9]
+Name=DSN_APP_DATE
+Value=23.04.2025
+
+[Parameter10]
+Name=DrawnBy
+Value=E. Daporta
+
+[Parameter11]
+Name=COPYRIGHT
+Value=© ANavS 2025
+
+[Parameter12]
+Name=CHK_APP_DATE
+Value=25.04.2025
+
+[Parameter13]
+Name=CheckedBy
+Value=V. Tratter
+
 [Parameter14]
-Name=PROJECT
-Value=MosaicM2G5
+Name=Assembly_Drawing_Title
+Value=G5Dot PCBA Assembly
 
 [Parameter15]
-Name=SCH_SCALE
-Value=n.a.
+Name=ASM_REVISION
+Value=01
 
 [Configuration1]
 Name=Sources
