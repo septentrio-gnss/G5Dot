@@ -126,7 +126,7 @@ NVIDIA Jetson boards are small powerful AI computers designed for applications l
 
 Using the M.2 form factor for the mosaic-G5 allows developers already working in the NVIDIA ecosystem to easily add the GNSS receiver without redesigning their hardware.
 
-<img src="/pictures/Jetson Orin Nano Dev Kit.png"  width="35%"><img src="/pictures/Down view NVIDIA.png" width="35%">
+<img src="/pictures/Jetson Orin Nano Dev Kit.png"  width="30%"><img src="/pictures/Down view NVIDIA.png" width="35%">
 
 # User documentation
 
