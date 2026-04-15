@@ -10,11 +10,15 @@
 
 * [Introduction to M.2_mosaicG5](#introduction-to-m2_mosaicg5)
   * [What is the M.2_mosaicG5?](#what-is-the-m2_mosaicg5)
+  * [Who is Septentrio?](#who-is-septentrio)
+  * [where can i buy it?](#where can i buy it?)
+    * [Who is ANavS GmbH](#who-is-anavs-gmbh)
+* [Technology]
     * [Availability](#availability)
 * [What is a mosaic-G5 module?](#what-is-a-mosaic-g5-module)
   * [Other mosaic-G5 versions](#other-mosaic-g5-versions)
-* [Who is Septentrio?](#who-is-septentrio)
-* [Who is ANavS GmbH](#who-is-anavs-gmbh)
+
+
 * [Why open-source](#why-open-source)
 * [Disclaimer](#disclaimer)
 * [Deliverables](#deliverables)
@@ -36,13 +40,26 @@
 This is a compact, high precision GNSS (Global Navigation Satellite System) receiver card design for embedded computing platforms, ideal for industrial PCs such as NVIDIA Jetson. Its small size and low power consumption makes it appropriate for applications where space and efficiency are critical. 
 
 The design is based on the mosaic-G5 GNSS receiver, which supports multiple satellite systems and enables centimetre-level positioning accuracy. This open-source board was originally designed by ANavS GmbH.
+## Who is Septentrio?
+<img src="/pictures/Screenshot 2026-03-13 160257.png" width="30%">
 
-#### Can I buy it?
+Septentrio is a leading company that designs, manufactures and sells high precision and multi-frequency GPS/GNSS receivers for demanding applications. Septentrio products are used in different industries including automotive, marine, construction, rail, machine control, logistics, precision agriculture, geographic information systems (GIS), Unmanned aerial vehicles (UAVs), survey, mapping and scientific. Septentrio’s receivers constantly deliver highly accurate and precise GNSS positioning, scalable to centimetre-level and designed to perform perfectly in challenging environments. 
+
+Septentrio's technology offers high accuracy and reliability thanks to advanced GNSS algorithms as well as [Advanced interference Monitoring and mitigation (AIM+)](https://www.septentrio.com/en/learn-more/advanced-positioning-technology/aim-anti-jamming-protection) This protects your application against jamming (RF interference) and spoofing (malicious attacks).
+
+For more information about Septentrio products go to [**https://www.septentrio.com/**](https://web.septentrio.com/GH-SSN-home).
+
+## where can i buy it?
 Yes, the board is available for purchase from ANavS
 
 Website: https://anavs.com/products/embedded-modules/gnss-card-g5/
 
+### Who is ANavS GmbH
+ANavS GmbH is a German company that develops high precision navigation and positioning systems. Their technology combines GNSS, inertial sensors (IMUs), and sensor fusion algorithms to provide accurate location and orientation.
 
+For more details, visit the product page [here](https://anavs.com/products/embedded-modules/gnss-card-g5/) 
+
+# Technology 
 ## What is a mosaic-G5 module?
 The mosaic-G5 is a compact GNSS receiver from Septentrio, engineered for high reliability and precise positioning. It integrates the latest multi-band, multi-constellation GNSS technology, providing accurate positions while minimizing power consumption. The receiver can access signals from all major satellite constellations, including GPS, Galileo, GLONASS, and BeiDou.
 
@@ -57,27 +74,10 @@ Different versions of the mosaic-G5 are available to suit various applications, 
 | Dual antenna |              |              | Yes           |
 | Heading      |              |              | Yes           |
 
-
-
-#### Other mosaic-G5 versions
+## Other mosaic-G5 versions
  You can use other [mosaic modules](https://www.septentrio.com/en/products/gnss-receivers?f%5B0%5D=type%3A604), but you need to pay attention to the functions and pins that could be exposed, then modify the design for your own project. 
 
-## Who is Septentrio?
-<img src="/pictures/Screenshot 2026-03-13 160257.png" width="30%">
-
-Septentrio is a leading company that designs, manufactures and sells high precision and multi-frequency GPS/GNSS receivers for demanding applications. Septentrio products are used in different industries including automotive, marine, construction, rail, machine control, logistics, precision agriculture, geographic information systems (GIS), Unmanned aerial vehicles (UAVs), survey, mapping and scientific. Septentrio’s receivers constantly deliver highly accurate and precise GNSS positioning, scalable to centimetre-level and designed to perform perfectly in challenging environments. 
-
-Septentrio's technology offers high accuracy and reliability thanks to advanced GNSS algorithms as well as [Advanced interference Monitoring and mitigation (AIM+)](https://www.septentrio.com/en/learn-more/advanced-positioning-technology/aim-anti-jamming-protection) This protects your application against jamming (RF interference) and spoofing (malicious attacks).
-
-For more information about Septentrio products go to [**https://www.septentrio.com/**](https://web.septentrio.com/GH-SSN-home).
-
-### Who is ANavS GmbH
-ANavS GmbH is a German company that develops high precision navigation and positioning systems. Their technology combines GNSS, inertial sensors (IMUs), and sensor fusion algorithms to provide accurate location and orientation.
-
-For more details, visit the product page [here](https://anavs.com/products/embedded-modules/gnss-card-g5/) 
-
-
-### Why open-source and is it open-source
+## Why open-source 
 This board is open-source to encourage collaboration, customization, and innovation. It makes it easy for developers, hobbyists, and integrators to combine high-precision GNSS positioning with platforms like NVIDIA, experiment, create spin-off projects, and adapt it for a wide range of robotics, autonomous systems, or industrial applications.
 
 Open-source promotes shared development, letting users build on existing work and push the technology further. It also means you have access to editable design files and are free to modify, build or sell your own version.
@@ -87,7 +87,8 @@ This project is offered as-is. The main interfaces have been tested, but the des
 
 Support website: https://www.septentrio.com/en/support
 
-### Deliverables
+# How to produce
+## Deliverables
 This open-source project contains the following files for designers, producers and integrators around Septentrio's mosaic modules.
 |Files         |Description   |
 |--------------|--------------|
@@ -100,8 +101,7 @@ This open-source project contains the following files for designers, producers a
 |BOM_MosaicM2G5_REV_01.01_VARIANT_Mosaic-G5_P3H|Bill of Materials|
 |MosaicM2G5 sch        |schematics PDF  |
 
-
-#### Ordering mosaic module
+## Ordering mosaic module
 
 You can order the mosaics from Digi-Key, or you can contact Septentrio directly.
 
@@ -113,8 +113,8 @@ You can order the mosaics from Digi-Key, or you can contact Septentrio directly.
 |M.2_mosaicG5|     - | [100040](https://www.digikey.com/en/products/detail/anavs-gmbh/100040/28164182) |
 
 
-### M.2 form factor
-##### Why M.2?
+# M.2 form factor
+## Why M.2?
 M.2 form factor is a standard interface used to provide a compact and flexible way to add extra functionality without redesigning the hardware. It is usually used in Laptops for Wi-Fi or SSDs, industrial PCs and embedded boards such as NVIDIA Jetson. 
 
 NVIDIA Jetson boards are small powerful AI computers designed for applications like robotics, drones and smart systems. They provide powerful GPU performance in a compact, energy-efficient system, making them ideal for real-time AI and embedded development.
@@ -127,20 +127,22 @@ The M.2 Key E+A connector can fit into a Key E and Key A slots. Key A and Key E 
 
 <img src="/pictures/M.2 interface.png" width="50%" url="https://www.delock.com/infothek/M.2_2022/images/keys-a-e_engl.jpg">
 
-## User documentation
+## Why for NVIDIA?
 
-### Interfaces
+# User documentation
+
+## Interfaces
 <img src="/pictures/M2G5 Interface.png" width="40%">
 
 
-### Insert in NVIDIA Orin development kit
+## Insert in NVIDIA Orin development kit
 M.2_mosaicG5 can be easily connected to the NVIDIA Jetson board as shown: 
 
 <img src="/pictures/Jetson & mosaic.png" width="80%">
 
 You can insert the board on the underside of the NVIDIA Jetson board 
 
-#### Pinout for M.2 Key_A+E Connector 
+## Pinout for M.2 Key_A+E Connector 
 <img src="/pictures/m.2key a+e.png" width="40%">
 
 | Pin # |Signal to the mosaic module|
@@ -158,23 +160,23 @@ You can insert the board on the underside of the NVIDIA Jetson board
 
 * LED: these pins can be used to drive external LEDs, which are helpful for quick visual feedback
 
-#### Pinout for mosaic-G5 module
+## Pinout for mosaic-G5 module
 
 | Pin # |mosaic module signals|
-|-------|------------------|
-|2|Antenna |
-|5|Antenna |
-| 12	|USB D+            |
-| 13    |USB D-            |
-|14|VBUS|
-|42| Pulse Per Second|
-| 44, 45|power 3.3 V    |
-|  52    |External LED     | 
-|  53  | External LED     | 
-|54|Antenna power 3.3 V|
-| GND	|GND               |
+|-------|---------------------|
+|2      |Antenna              |
+|5      |Antenna              |
+|12	    |USB D+               |
+|13     |USB D-               |
+|14     |VBUS                 |
+|42     | Pulse Per Second    |
+|44, 45 |power 3.3 V          |
+|52     |External LED         | 
+|53     | External LED        | 
+|54     |Antenna power 3.3 V  |
+| GND	  |GND                  |
 
-### Antenna
+## Antenna
 
 <img src="/pictures/antenna pin.png" width="50%">
 
@@ -182,16 +184,15 @@ The board exposes two RP-UMRF (micro RF) antenna connectors for GNSS signal rece
 
 The connectors typically serve as MAIN (primary) and AUX (secondary) inputs, enabling support for advanced features such as dual-band reception and high-precision positioning (e.g., RTK)
 
-### How to get GNSS Data
+## How to get GNSS Data
 * Insert the M.2_mosaicG5 into the M.2 slot.
 * Connect the GNSS antenna to the antenna connector
 * Configure the receiver by downloading Septentrio Rx Tools, you can get this from [here](https://www.septentrio.com/en/products/gps-gnss-receiver-software/rxtools#resources)
 * Follow the installation instructions
     * This tool allows the user to monitor satellite signals, configure receiver settings, log GNSS data and verify positioning status
-
     * You can also download *RxTools User Manual* to get you started
 
-
+## Interface, Protocal & Elecrical Specifications
 Interface
 * USB (device 2.0 HS up to 480 Mbps)
 * Configure PPS via the u.FL connector
