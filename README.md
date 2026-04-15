@@ -9,7 +9,6 @@
 | License     | Open-Source Hardware License (CERN-OHL) 
 
 # Table of Contents
-
 * [Introduction to G5Dot](#introduction-to-g5dot)
   * [What is a G5Dot?](#what-is-a-g5dot)
   * [Who is Septentrio?](#who-is-septentrio)
