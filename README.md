@@ -4,9 +4,11 @@
 
 | Role        | Contact                                                                 |
 |-------------|-------------------------------------------------------------------------|
-| Author      | [laekaz](https://github.com/laekaz)                                     |
+| Author      | [laekaz](https://github.com/laekaz) project from ANavS                  |
 | Maintainer  | [Septentrio GNSS GitHub User](githubuser@septentrio.com)                |
-| License     | Open-Source Hardware License (CERN-OHL) 
+| License     | Open-Source Hardware License (CERN-OHL)                                 |
+
+This open source project is derived from the following original project located [here](https://github.com/anavsgmbh/M2_Mosaic-G5_Smart/tree/main)
 
 # Table of Contents
 * [Introduction to G5Dot](#introduction-to-g5dot)
