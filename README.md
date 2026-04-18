@@ -1,5 +1,5 @@
 # G5Dot
-<img src="/pictures/logo.png" width="20%">
+<img src="/pictures/logo.png" width="10%">
 
 
 | Role        | Contact                                                                 |
