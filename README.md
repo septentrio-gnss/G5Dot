@@ -4,7 +4,7 @@
 
 | Role        | Contact                                                                 |
 |-------------|-------------------------------------------------------------------------|
-| Author      | [laekaz](https://github.com/laekaz) project from ANavS                  |
+| Author      | [laekaz](https://github.com/laekaz) (project from ANavS)                |
 | Maintainer  | [Septentrio GNSS GitHub User](githubuser@septentrio.com)                |
 | License     | Open-Source Hardware License (CERN-OHL)                                 |
 
