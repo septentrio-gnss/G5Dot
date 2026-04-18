@@ -1,5 +1,5 @@
 # G5Dot
-<img src="/pictures/logo.png" width="60%">
+<img src="/pictures/logo.png" width="50%">
 
 
 | Role        | Contact                                                                 |
@@ -71,7 +71,7 @@ Different versions of the mosaic-G5 are available to suit various applications, 
 | Features     | [mosaic-G5 P1](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-g5-p1) | [mosaic-G5 P3](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3) | [mosaic-G5 P3H](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3H) |
 |--------------|--------------|--------------|---------------|
 | Functionality|High-precision positioning   |High-precision positioning |Positioning + Heading|
-| Use case     |Robotics (e.g robotic mowers), GIS devices |UAV, Commercial mowers, Industrial Robotics, Survey, Marine navigation |UAV, Commercial mowers, Industrial Robotics, Survey, Marine navigation|             
+| Use case     |Robotics (e.g robotic mowers), GIS devices |UAV, Commercial mowers, Industrial Robotics, GIS and mapping applications |UAV, Commercial mowers, Industrial Robotics,GIS, mapping applications, sensor fusion and INS systems|             
 | GNSS bands   | Triple-band  | Quad-band    | Quad-band     |
 | RTK support  | Yes          | Yes          | Yes           |
 | Dual antenna |              |              | Yes           |
