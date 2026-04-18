@@ -1,5 +1,5 @@
 # G5Dot
-<img src="/pictures/logo.png" width="50%">
+<img src="/pictures/logo.png" width="20%">
 
 
 | Role        | Contact                                                                 |
@@ -189,10 +189,7 @@ The connectors typically serve as MAIN (primary) and AUX (secondary) inputs, ena
 ## How to get GNSS Data
 * Insert the G5Dot into the M.2 slot.
 * Connect the GNSS antenna to the antenna connector
-* Configure the receiver by downloading Septentrio Rx Tools, you can get this from [here](https://www.septentrio.com/en/products/gps-gnss-receiver-software/rxtools#resources)
-* Follow the installation instructions
-    * This tool allows the user to monitor satellite signals, configure receiver settings, log GNSS data and verify positioning status
-    * You can also download *RxTools User Manual* to get you started
+* Configure the receiver 
 
 ## Interface, Protocol & Electrical Specifications
 Interface
