@@ -6,7 +6,10 @@
 | Maintainer  | [Septentrio GNSS GitHub User](githubuser@septentrio.com)                |
 | License     | Open-Source Hardware License (CERN-OHL)                                 |
 
-<img src="/pictures/logo.png" width="40%">
+
+<p align="center">
+  <img src="/pictures/logo.png" alt="logo" width="40%">
+</p>
 
 This open source project is derived from the following original project located [here](https://github.com/anavsgmbh/M2_Mosaic-G5_Smart/tree/main)
 
