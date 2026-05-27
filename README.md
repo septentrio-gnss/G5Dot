@@ -42,7 +42,7 @@ This open source project is derived from the following original project located 
 
 # Introduction to G5Dot
 ## What is a G5Dot?
-<img src="/pictures/M.2 main board - Copy.png" width="10%">
+<img src="/pictures/M.2 main board - Copy.png" width="200">
 This is a compact, high precision GNSS (Global Navigation Satellite System) receiver card design for embedded computing platforms, ideal for industrial PCs such as NVIDIA Jetson. Its small size and low power consumption make it appropriate for applications where space and efficiency are critical. 
 
 The design is based on the mosaic-G5 GNSS receiver, which supports multiple satellite systems and enables centimetre-level positioning accuracy. This open-source board was originally designed by ANavS GmbH.
