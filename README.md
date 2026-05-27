@@ -1,12 +1,12 @@
 # G5Dot
-<img src="/pictures/logo.png" width="1%">
-
 
 | Role        | Contact                                                                 |
 |-------------|-------------------------------------------------------------------------|
 | Author      | [laekaz](https://github.com/laekaz) (project from ANavS)                |
 | Maintainer  | [Septentrio GNSS GitHub User](githubuser@septentrio.com)                |
 | License     | Open-Source Hardware License (CERN-OHL)                                 |
+
+<img src="/pictures/logo.png" width="40%">
 
 This open source project is derived from the following original project located [here](https://github.com/anavsgmbh/M2_Mosaic-G5_Smart/tree/main)
 
