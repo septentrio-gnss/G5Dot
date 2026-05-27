@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="/pictures/logo.png" alt="logo" width="40%">
+  <img src="/pictures/logo.png" alt="logo" width="300">
 </p>
 
 This open source project is derived from the following original project located [here](https://github.com/anavsgmbh/M2_Mosaic-G5_Smart/tree/main)
