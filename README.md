@@ -103,7 +103,7 @@ This open-source project contains the following files for designers, producers a
 |[M.2_Key_A+E.SchDoc](/G5Dot/G5Dot/M.2_Key_A+E.SchDoc)                       |Schematics for M.2 KEY A+E        |
 |[Mosaic-G5.SchDoc](/G5Dot/G5Dot/Mosaic-G5.SchDoc)                         |Schematics for mosaic-G5 P3 module|
 |[G5Dot.PrjPcbVariants](/G5Dot/G5Dot/G5Dot.PrjPcbVariants)                   |Introduction and variants         |
-||[BOM_G5Dot_REV_01.01_VARIANT_Mosaic-G5_P3H.xlsx](/BOM_G5Dot_REV_01.01_VARIANT_Mosaic-G5_P3H.xlsx)|Bill of Materials   |
+|[BOM_G5Dot_REV_01.01_VARIANT_Mosaic-G5_P3H.xlsx](/BOM_G5Dot_REV_01.01_VARIANT_Mosaic-G5_P3H.xlsx)|Bill of Materials   |
 |[G5Dot_Schematics.pdf](/G5Dot_Schematics.pdf)                                |Schematics PDF                    |
 
 ## Ordering mosaic-G5 module
