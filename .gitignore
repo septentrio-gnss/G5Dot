@@ -17,6 +17,7 @@ eagle.epf
 # Autorouter files
 *.pro
 *.job
+*.history
 
 # CAM files
 *.$$$
