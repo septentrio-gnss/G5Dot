@@ -2,7 +2,7 @@
 
 | Role        | Contact                                                                 |
 |-------------|-------------------------------------------------------------------------|
-| Author      | [laekaz](https://github.com/laekaz) (project from ANavS)                |
+| Author      | [laekaz](https://github.com/laekaz)                                     |
 | Maintainer  | [Septentrio GNSS GitHub User](githubuser@septentrio.com)                |
 | License     | Open-Source Hardware License (CERN-OHL)                                 |
 
@@ -98,24 +98,23 @@ Support website: https://www.septentrio.com/en/support
 This open-source project contains the following files for designers, producers and integrators around Septentrio's mosaic modules.
 |Files                                    |Description                       |
 |-----------------------------------------|----------------------------------|
-|G5Dot.PrjPcb                             |Altium Project                    |
-|Cover_Page.SchDoc                        |Cover page                        |
-|M.2_Key_A+E.SchDoc                       |Schematics for M.2 KEY A+E        |
-|Mosaic-G5.SchDoc                         |Schematics for mosaic-G5 P3 module|
-|G5DotCover_Page.SchDoc                   |Introduction and variants                |
-|G5Dot.PrjPcbStructure                    |PCB structure                     |
-|BOM_G5Dot_REV_01.01_VARIANT_Mosaic-G5_P3H|Bill of Materials                 |
-|G5Dot.pdf                                |Schematics PDF                    |
+|[G5Dot.PrjPcb](/G5Dot/G5Dot/G5Dot.PrjPcb)                             |Altium Project                    |
+|[Cover_Page.SchDoc](/G5Dot/G5Dot/Cover_Page.SchDoc)                        |Cover page                        |
+|[M.2_Key_A+E.SchDoc](/G5Dot/G5Dot/M.2_Key_A+E.SchDoc)                       |Schematics for M.2 KEY A+E        |
+|[Mosaic-G5.SchDoc](/G5Dot/G5Dot/Mosaic-G5.SchDoc)                         |Schematics for mosaic-G5 P3 module|
+|[G5Dot.PrjPcbVariants](/G5Dot/G5Dot/G5Dot.PrjPcbVariants)                   |Introduction and variants         |
+||[BOM_G5Dot_REV_01.01_VARIANT_Mosaic-G5_P3H.xlsx](/BOM_G5Dot_REV_01.01_VARIANT_Mosaic-G5_P3H.xlsx)|Bill of Materials   |
+|[G5Dot_Schematics.pdf](/G5Dot_Schematics.pdf)                                |Schematics PDF                    |
 
 ## Ordering mosaic-G5 module
 
 You can order the mosaics from Digi-Key, or you can contact Septentrio directly.
 
-| mosaic-G5 versions | Septentrio | Digi-Key part_number|
+| mosaic-G5 versions | Septentrio | Digi-Key part_number|CompoTEk
 |--------------------|------------|---------------------|
-| mosaic-G5 P1       |[Septentrio_G5-P1](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-g5-p1) | - |
-| mosaic-G5 P3       | [Septentrio_G5-P3](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3) | [410501](https://www.digikey.com/en/products/detail/septentrio-inc/410501/28527327) |
-| mosaic-G5 P3H      |[Septentrio_G5-P3H](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3H) | [410502](https://www.digikey.com/en/products/detail/septentrio-inc/410502/28527213) |
+| mosaic-G5 P1       |[Septentrio_G5-P1](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-g5-p1) | - |-|
+| mosaic-G5 P3       | [Septentrio_G5-P3](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3) | [410501](https://www.digikey.com/en/products/detail/septentrio-inc/410501/28527327) | https://shop.compotek.de/products/mosaic-G5-P3-p789238026 |
+| mosaic-G5 P3H      |[Septentrio_G5-P3H](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3H) | [410502](https://www.digikey.com/en/products/detail/septentrio-inc/410502/28527213) | https://shop.compotek.de/products/mosaic-G5-P3H-p790005981|
 |G5Dot|     -        | [100040](https://www.digikey.com/en/products/detail/anavs-gmbh/100040/28164182) |
 
 
