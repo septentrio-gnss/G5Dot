@@ -113,8 +113,8 @@ You can order the mosaics from Digi-Key, or you can contact Septentrio directly.
 | mosaic-G5 versions | Septentrio | Digi-Key part_number|       CompoTEK             |
 |--------------------|------------|---------------------|----------------------------|
 | mosaic-G5 P1       |[Septentrio_G5-P1](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-g5-p1) | - |-|
-| mosaic-G5 P3       | [Septentrio_G5-P3](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3) | [410501](https://www.digikey.com/en/products/detail/septentrio-inc/410501/28527327) | [CompoTEK_mosaic-G5-P3](https://shop.compotek.de/products/mosaic-G5-P3-p789238026)|
-| mosaic-G5 P3H      |[Septentrio_G5-P3H](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3H) | [410502](https://www.digikey.com/en/products/detail/septentrio-inc/410502/28527213) | [CompoTEK_mosaic-G5-P3](https://shop.compotek.de/products/mosaic-G5-P3H-p790005981)|
+| mosaic-G5 P3       | [Septentrio_G5-P3](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3) | [410501](https://www.digikey.com/en/products/detail/septentrio-inc/410501/28527327) | [sep_mosaic-G5_P3](https://shop.compotek.de/products/mosaic-G5-P3-p789238026)|
+| mosaic-G5 P3H      |[Septentrio_G5-P3H](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3H) | [410502](https://www.digikey.com/en/products/detail/septentrio-inc/410502/28527213) | [sep_mosaic-G5_P3H](https://shop.compotek.de/products/mosaic-G5-P3H-p790005981)|
 |G5Dot|     -        | [100040](https://www.digikey.com/en/products/detail/anavs-gmbh/100040/28164182) |
 
 
