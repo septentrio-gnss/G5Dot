@@ -96,6 +96,11 @@ Support website: https://www.septentrio.com/en/support
 # How to produce
 ## Deliverables
 This open-source project contains the following files for designers, producers and integrators around Septentrio's mosaic modules.
+
+Both **Altium Designer** and **KiCad** design files are provided. You can choose either format according to your preferred PCB design workflow.
+
+### Altium Designer
+
 |Files                                    |Description                       |                        
 |-----------------------------------------|----------------------------------|
 |[G5Dot.PrjPcb](/G5Dot/G5Dot/G5Dot.PrjPcb)                             |Altium Project                    |
@@ -105,6 +110,16 @@ This open-source project contains the following files for designers, producers a
 |[G5Dot.PrjPcbVariants](/G5Dot/G5Dot/G5Dot.PrjPcbVariants)                   |Introduction and variants         |
 |[BOM_G5Dot_REV_01.01_VARIANT_Mosaic-G5_P3H.xlsx](/BOM_G5Dot_REV_01.01_VARIANT_Mosaic-G5_P3H.xlsx)|Bill of Materials   |
 |[G5Dot_Schematics.pdf](/G5Dot_Schematics.pdf)                                |Schematics PDF                    |
+
+### KiCad
+
+| File | Description |
+|------|-------------|
+| [G5Dot.kicad_pro](./G5Dot/G5Dot%20Kicad/G5Dot.kicad_pro) | KiCad project |
+| [Cover_Page.kicad_sch](./G5Dot/G5Dot%20Kicad/Cover_Page.kicad_sch) | Cover page schematic |
+| [M.2_Key_A+E.kicad_sch](./G5Dot/G5Dot%20Kicad/M.2_Key_A+E.kicad_sch) | Schematics for the M.2 Key A+E interface |
+| [Mosaic-G5.kicad_sch](./G5Dot/G5Dot%20Kicad/Mosaic-G5.kicad_sch) | Schematics for the mosaic-G5 P3 module |
+
 
 ## Ordering mosaic-G5 module
 
