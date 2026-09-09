@@ -10,6 +10,9 @@
 <p align="center">
   <img src="/pictures/logo.png" alt="logo" width="300">
 </p>
+<p align="center">
+  <img src="/pictures/G5Dot_ad.png" alt="ad" width="80%">
+</p>
 
 This open source project is derived from the following original project located [here](https://github.com/anavsgmbh/M2_Mosaic-G5_Smart/tree/main)
 
